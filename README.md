@@ -5,6 +5,7 @@ This repo contains:
 * RESEARCH PAPERS 
 * PROJECTS 
 * DEMOS 
-* AND EVERYTHING ELSE RELATED TO THE INTERSECTION OF LLMS AND ROBOTICS
+
+And everything else related to the intersection of LLMs and Robotics!
 
 
