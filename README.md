@@ -22,7 +22,7 @@ Please feel free to send me pull requests or email to add papers!
 
 If you find this repository useful, please consider citing and STARing this list. Feel free to share this list with others!
 
-Overview
+# Overview
 
 Reasoning
 Planning
@@ -30,6 +30,17 @@ Manipulation
 Instructions and Navigation
 Simulation Frameworks
 Citation
+
+#Citation 
+If you find this repository useful, please consider citing this list:
+
+@misc{kira2022llmroboticspaperslist,
+    title = {Everything-LLMs-And-Robotics},
+    author = {Jacob Rintamaki},
+    journal = {GitHub repository},
+    url = {https://github.com/jrin771/Everything-LLMs-And-Robotics},
+    year = {2023},
+}
 
 
 
