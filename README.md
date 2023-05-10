@@ -35,7 +35,7 @@ Citation
 If you find this repository useful, please consider citing this list:
 
 ```
-@misc{rintamaki2023EverythingLLMsAndRoboticsRepo,
+@misc{rintamaki2023everythingllmsandroboticsrepo,
     title={Everything-LLMs-And-Robotics},
     author={Jacob Rintamaki},
     journal={GitHub repository},
