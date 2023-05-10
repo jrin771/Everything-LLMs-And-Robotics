@@ -11,7 +11,7 @@ And everything else related to the intersection of LLMs and Robotics!
 
 # Large Inspiration From and Gratitude Towards:
 
-* CS199: AI Robotics at Stanford University (Provide Link Here To Coursework) 
-* GT-RIPL Repo (Provide Link Here To Repo)
+* CS199: AI Robotics at Stanford University https://pupper-independent-study.readthedocs.io/en/latest/index.html
+* GT-RIPL Repo https://github.com/GT-RIPL/Awesome-LLM-Robotics
 
 
