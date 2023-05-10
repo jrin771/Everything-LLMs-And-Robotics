@@ -31,11 +31,11 @@ Instructions and Navigation
 Simulation Frameworks
 Citation
 
-#Citation 
+# Citation 
 If you find this repository useful, please consider citing this list:
 
 ```
-@misc{kira2022llmroboticspaperslist,
+@misc{rintamaki2023EverythingLLMsAndRoboticsRepo,
     title={Everything-LLMs-And-Robotics},
     author={Jacob Rintamaki},
     journal={GitHub repository},
