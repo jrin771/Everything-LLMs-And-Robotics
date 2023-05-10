@@ -16,7 +16,7 @@ And everything else related to the intersection of LLMs and Robotics!
 * Microsoft Drone Paper 
 * Orangewood Labs Demo 
 * Boston Dynamics Demo 
-* 
+* Overall I want to find over 100 things on this. Once I do that it'll help with marketing (so far I've compiled over 100 + items, 3 times as large as the next largest repo on LLMs + Robotics I could find on GitHub, but I think we can be even more thorough.)
 
 
 # Large Inspiration From and Gratitude Towards:
