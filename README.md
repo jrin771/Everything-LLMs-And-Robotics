@@ -34,13 +34,15 @@ Citation
 #Citation 
 If you find this repository useful, please consider citing this list:
 
-@misc{rintamaki2023EverythingLLMsAndRoboticsRepo,
-    title = {Everything-LLMs-And-Robotics},
-    author = {Jacob Rintamaki},
-    journal = {GitHub repository},
-    url = {https://github.com/jrin771/Everything-LLMs-And-Robotics},
-    year = {2023},
+```
+@misc{kira2022llmroboticspaperslist,
+    title={Everything-LLMs-And-Robotics},
+    author={Jacob Rintamaki},
+    journal={GitHub repository},
+    url={https://github.com/jrin771/Everything-LLMs-And-Robotics},
+    year={2023},
 }
+
 
 
 
