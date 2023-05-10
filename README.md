@@ -43,7 +43,3 @@ If you find this repository useful, please consider citing this list:
     url={https://github.com/jrin771/Everything-LLMs-And-Robotics},
     year={2023},
 }
-
-
-
-
