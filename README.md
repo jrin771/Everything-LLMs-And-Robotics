@@ -6,7 +6,17 @@ This repo contains:
 * PROJECT DEMOS 
 * COURSES/PEDAGOGY
 
-And everything else related to the intersection of LLMs and Robotics! 
+And everything else related to the intersection of LLMs and Robotics!  
+
+
+# List of papers I should add 
+
+* PaLM-E 
+* Almost everything from Chelsea Finn's lab 
+* Microsoft Drone Paper 
+* Orangewood Labs Demo 
+* Boston Dynamics Demo 
+* 
 
 
 # Large Inspiration From and Gratitude Towards:
