@@ -15,12 +15,11 @@ And everything else related to the intersection of LLMs and Robotics!
 * [GPT-RIPL](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
 
-
-Awesome-LLM-Robotics Awesome
-
 This repo contains a curative list of papers using Large Language/Multi-Modal Models for Robotics/RL. Template from awesome-Implicit-NeRF-Robotics 
 
-Please feel free to send me pull requests or email to add papers! 
+Please feel free to send pull requests to  (add this stuff in)
+
+Please do not email, as if everyone sends pull requests in one place it will be much easier to equitably and rapidly maintain this repository.
 
 If you find this repository useful, please consider citing and STARing this list. Feel free to share this list with others!
 
