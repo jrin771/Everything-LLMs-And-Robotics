@@ -14,4 +14,22 @@ And everything else related to the intersection of LLMs and Robotics!
 * CS199: AI Robotics at Stanford University https://pupper-independent-study.readthedocs.io/en/latest/index.html
 * GT-RIPL Repo https://github.com/GT-RIPL/Awesome-LLM-Robotics
 
+Awesome-LLM-Robotics Awesome
+
+This repo contains a curative list of papers using Large Language/Multi-Modal Models for Robotics/RL. Template from awesome-Implicit-NeRF-Robotics 
+
+Please feel free to send me pull requests or email to add papers! 
+
+If you find this repository useful, please consider citing and STARing this list. Feel free to share this list with others!
+
+Overview
+
+Reasoning
+Planning
+Manipulation
+Instructions and Navigation
+Simulation Frameworks
+Citation
+
+
 
