@@ -12,3 +12,10 @@ For example:
 FOR PROJECTS 
 
 FOR DEMOS 
+
+
+
+## WHY DO WE ONLY HAVE PULL REQUESTS? 
+In other repositories, such as awesome-cv they have the option for email, but I (J) chose this 
+
+
