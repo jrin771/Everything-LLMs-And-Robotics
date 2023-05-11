@@ -9,16 +9,11 @@ This repo contains:
 
 And everything else related to the intersection of LLMs and Robotics!  
 
-Here's why I made this: (put in link to blog here)
+Here's why I made this: (put link to blog) 
+Heavily Inspired By * [GPT-RIPL](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
 # Logistics 
-If you want to add papers, project demos, courses, or anything related to LLMs and Robotics, follow the pull request procedure. 
-
-(Explanation for why we only accept pull requests)
-
-This repo is inspired by 
-* [CS199: Stanford Robotics Independent Study](https://pupper-independent-study.readthedocs.io/en/latest/index.html) (Will be an official class next winter!)
-* [GPT-RIPL](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
+If you want to add papers, project demos, courses, or anything related to LLMs and Robotics, follow the pull request procedure in PR Guide.md. 
 
 # Overview
 
