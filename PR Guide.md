@@ -1,13 +1,13 @@
 ## WHY PULL REQUESTS? 
 In other repositories, such as [awesome-cv](https://github.com/jbhuang0604/awesome-computer-vision) there is the option for email, but I chose to not do that to ensure that every update is treated the same (equity) and so that every update is in one place (organization and efficiency). 
 
-Currently I can guarantee that within 5 business days your pull request will be approved IF it meets requirements. I am actively working to get this down to 3 and then 1 business day through methods described here in sustainablemetascience.md
-
 ## I WANT TO ADD A
 - [Paper](#paper)
 - [Project Demo](#project-demo) 
 - [Educational Material](#educational-material) 
-- [Twitter Thread That Doesn't Suck](#twitter-thread-that-doesn't-suck)
+- [Twitter Thread That Doesn't Suck](#twitter-thread-that-doesn't-suck) 
+- [Clean Up](#clean-up) 
+- [Administrative Changes](#administrative-changes)
 
 
 ## PAPER <a name="paper"></a>
@@ -44,5 +44,32 @@ Modify the README.md and follow the format
 For example: 
 
 * **Bitter Lesson 2.0**: *@hausman_k, 2023* [[Thread](https://twitter.com/hausman_k/status/1612509549889744899)]
+
+## CLEAN UP <a name="clean-up"></a>
+Modify the designated file and follow the format 
+``` 
+ERROR IDENTIFIED: [FILE/HEADING/SHORT TITLE], BRIEF DESCRIPTION OF ERROR
+ERROR FIX: [ERROR LOCATION], BRIEF DESCRIPTION OF HOW ERROR WAS FIXED
+```  
+
+For example:  
+
+ERROR IDENTIFIED: [README.MD/PROJECT DEMO/SPOT GPT], The link is dead 
+ERROR FIX: [README.MD/PROJECT DEMO/SPOT GPT], The link was replaced with a working link
+
+## ADMINISTRATIVE CHANGES <a name="administrative-changes"></a>
+This is more informal since it is intended to be a catch-all, but if you have an idea for how to improve Everything-LLMs-And-Robotics then follow this format: 
+``` 
+WHAT IS YOUR IDEA: Brief description
+"SO WHAT?" (WHY SHOULD WE DO THIS): Brief Description
+HOW ARE WE GOING TO DO THIS?: Brief Description 
+```  
+
+For example: 
+
+WHAT IS YOUR IDEA: I think we should add a new section for twitter accounts that people should follow in LLMs + Robotics
+"SO WHAT?" (WHY SHOULD WE DO THIS): This would 
+HOW ARE WE GOING TO DO THIS?: We can create a new section in README.md, A new PR format in PR GUIDE.md
+
 
 
