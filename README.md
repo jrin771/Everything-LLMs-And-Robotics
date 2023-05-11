@@ -27,7 +27,7 @@ This repo is inspired by
 - [Instructions and Navigation](#instructions-and-navigation)
 - [Simulation Frameworks](#simulation-frameworks)
 - [Project Demos](#project-demos) 
-- [Courses](#courses) 
+- [Educational Materials](#educational-materials) 
 - [Twitter Threads That Don't Suck](#twitter-threads-that-don't-suck)
 - [Citation](#citation)
 
@@ -56,11 +56,13 @@ Content
 
 Content  
 
-## Courses <a name="courses"></a> 
+## Educational Materials <a name="educational-materials"></a> 
 
-Content
+* **Controlling Robots Via Large Language Models**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, 2022* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
 
 ## Twitter Threads That Don't Suck <a name="twitter-threads-that-don't-suck"></a>
+* **Bitter Lesson 2.0**: *@hausman_k, 2023* [[Thread](https://twitter.com/hausman_k/status/1612509549889744899 
+)] 
 
 
 Content
