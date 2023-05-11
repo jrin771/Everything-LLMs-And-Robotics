@@ -14,6 +14,7 @@ This repo is inspired by
 * [GPT-RIPL](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
 If you want to add papers, project demos, courses, or anything related to LLMs and Robotics, follow the pull request procedure. 
+
 (Explanation for why we only accept pull requests)
 
 # Overview
