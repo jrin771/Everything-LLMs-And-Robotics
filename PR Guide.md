@@ -14,6 +14,12 @@ For example:
 * **ZSP**: "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", *arXiv, 2022*. [[Paper](https://arxiv.org/abs/2201.07207)] [[Pytorch Code](https://github.com/huangwl18/language-planner)] [[Website](https://wenlong.page/language-planner/)]
 
 ## FOR PROJECT DEMOS
+``` 
+* **Short Title**: "TITLE", PERSON (OPTIONAL), INSTITUTION (OPTIONAL), YEAR [[Video](link)]
+``` 
+For example: 
+
+* **SPOT GPT**: "Boston Dynamics Integration of ChatGPT into SPOT Robot", Boston Dynamics, 2023, [[Video](https://www.youtube.com/watch?v=XyCKe3rrYik)]
 
 ## FOR EDUCATIONAL MATERIALS 
 ``` 
