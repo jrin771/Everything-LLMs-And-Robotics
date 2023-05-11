@@ -1,6 +1,10 @@
 ## WHY PULL REQUESTS? 
 In other repositories, such as [awesome-cv](https://github.com/jbhuang0604/awesome-computer-vision) there is the option for email, but I chose to not do that to ensure that every update is treated the same (equity) and so that every update is in one place (organization and efficiency). 
 
+## I DON'T KNOW HOW A PULL REQUEST WORKS 
+
+Go to this file (how-do-I-do-a-pull-request.md) and it offers a step-by-step walkthrough for how to do a pull request. 
+
 ## I WANT TO ADD A
 - [Paper](#paper)
 - [Project Demo](#project-demo) 
