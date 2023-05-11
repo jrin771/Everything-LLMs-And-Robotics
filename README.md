@@ -1,14 +1,14 @@
 # Everything-LLMs-And-Robotics
-The world's largest Github Repository for LLMs + Robotics
+The world's largest GitHub Repository for LLMs + Robotics
 
-Here's why I made this: (put link to blog) 
+Why I made this: (put link to my blog with why I made this as the purple link) 
 
 Heavily Inspired by [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
 # Logistics 
 If you want to add papers, project demos, courses, or anything related to LLMs and Robotics, follow the pull request procedure in PR Guide.md. 
 
-# What do we have?
+# What Do We Have?
 
 - [Rsearch: Reasoning](#research-reasoning)
 - [Research: Planning](#research-planning)
