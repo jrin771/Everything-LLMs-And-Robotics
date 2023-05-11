@@ -1,7 +1,7 @@
 # Everything-LLMs-And-Robotics
 The world's largest Github Repository for LLMs + Robotics
 
-This repo contains: 
+Contains:
 * RESEARCH PAPERS 
 * PROJECT DEMOS 
 * EDUCATIONAL MATERIALS 
