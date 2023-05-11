@@ -26,6 +26,9 @@ This repo is inspired by
 - [Manipulation](#manipulation)
 - [Instructions and Navigation](#instructions-and-navigation)
 - [Simulation Frameworks](#simulation-frameworks)
+- [Project Demos](#project-demos) 
+- [Courses](#courses) 
+- [Twitter Threads That Don't Suck](#twitter-threads-that-don't-suck)
 - [Citation](#citation)
 
 
@@ -49,6 +52,18 @@ Content
 
 Content
 
+## Project Demos <a name="project-demos"></a> 
+
+Content  
+
+## Courses <a name="courses"></a> 
+
+Content
+
+## Twitter Threads That Don't Suck <a name="twitter-threads-that-don't-suck"></a>
+
+
+Content
 ## Citation <a name="citation"></a>
 
 If you find this repository useful, please consider citing this list:
