@@ -55,6 +55,7 @@ ERROR FIX: [ERROR LOCATION], BRIEF DESCRIPTION OF HOW ERROR WAS FIXED
 For example:  
 
 ERROR IDENTIFIED: [README.MD/PROJECT DEMO/SPOT GPT], The link is dead 
+
 ERROR FIX: [README.MD/PROJECT DEMO/SPOT GPT], The link was replaced with a working link
 
 ## ADMINISTRATIVE CHANGES <a name="administrative-changes"></a>
@@ -68,7 +69,9 @@ HOW ARE WE GOING TO DO THIS?: Brief Description
 For example: 
 
 WHAT IS YOUR IDEA: I think we should add a new section for twitter accounts that people should follow in LLMs + Robotics
+
 "SO WHAT?" (WHY SHOULD WE DO THIS): This would 
+
 HOW ARE WE GOING TO DO THIS?: We can create a new section in README.md, A new PR format in PR GUIDE.md
 
 
