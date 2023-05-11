@@ -22,34 +22,34 @@ This repo is inspired by
 
 # Overview
 
-- [Reasoning](#reasoning)
-- [Planning](#planning)
-- [Manipulation](#manipulation)
-- [Instructions and Navigation](#instructions-and-navigation)
-- [Simulation Frameworks](#simulation-frameworks)
+- [Rsearch: Reasoning](#research-reasoning)
+- [Research: Planning](#research-planning)
+- [Research: Manipulation](#research-manipulation)
+- [Research: Instructions and Navigation](#research-instructions-and-navigation)
+- [Research: Simulation Frameworks](#research-simulation-frameworks)
 - [Project Demos](#project-demos) 
 - [Educational Materials](#educational-materials) 
 - [Twitter Threads That Don't Suck](#twitter-threads-that-don't-suck)
 - [Citation](#citation)
 
 
-## Reasoning <a name="reasoning"></a>
+## Reasoning <a name="research-reasoning"></a>
 
 Hello
 
-## Planning <a name="planning"></a>
+## Planning <a name="research-planning"></a>
 
 Content
 
-## Manipulation <a name="manipulation"></a>
+## Manipulation <a name="research-manipulation"></a>
 
 Content
 
-## Instructions and Navigation <a name="instructions-and-navigation"></a>
+## Instructions and Navigation <a name="research-instructions-and-navigation"></a>
 
 Content
 
-## Simulation Frameworks <a name="simulation-frameworks"></a>
+## Simulation Frameworks <a name="research-simulation-frameworks"></a>
 
 Content
 
