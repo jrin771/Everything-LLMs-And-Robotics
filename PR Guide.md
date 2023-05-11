@@ -14,6 +14,7 @@ For example:
 * **ZSP**: "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", *arXiv, 2022*. [[Paper](https://arxiv.org/abs/2201.07207)] [[Pytorch Code](https://github.com/huangwl18/language-planner)] [[Website](https://wenlong.page/language-planner/)]
 
 ## FOR PROJECT DEMOS
+Modify the README.md and follow the format 
 ``` 
 * ** Short Title**: "TITLE", PERSON (OPTIONAL), INSTITUTION (OPTIONAL), YEAR [[Video](link)]
 ``` 
@@ -22,6 +23,7 @@ For example:
 * **SPOT GPT**: "Boston Dynamics Integration of ChatGPT into SPOT Robot", Boston Dynamics, 2023, [[Video](https://www.youtube.com/watch?v=XyCKe3rrYik)]
 
 ## FOR EDUCATIONAL MATERIALS 
+Modify the README.md and follow the format 
 ``` 
 * ** Short Title**: "TITLE", PERSON, COURSE, INSTITUTION, YEAR. [[Content](link)]
 ``` 
@@ -29,6 +31,7 @@ For example:
 * **LLMs Control Robots**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
 
 ## FOR TWITTER THREADS THAT DON'T SUCK 
+Modify the README.md and follow the format 
 ``` 
 * ** Short Title**: @USERNAME, YEAR. [[Thread](link)]  
 ```  
