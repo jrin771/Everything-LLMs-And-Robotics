@@ -15,7 +15,7 @@ For example:
 
 ## FOR PROJECT DEMOS
 ``` 
-* **Short Title**: "TITLE", PERSON (OPTIONAL), INSTITUTION (OPTIONAL), YEAR [[Video](link)]
+* ** Short Title**: "TITLE", PERSON (OPTIONAL), INSTITUTION (OPTIONAL), YEAR [[Video](link)]
 ``` 
 For example: 
 
@@ -23,7 +23,7 @@ For example:
 
 ## FOR EDUCATIONAL MATERIALS 
 ``` 
-* ** Short Title **: "TITLE", PERSON, COURSE, INSTITUTION, YEAR. [[Content](link)]
+* ** Short Title**: "TITLE", PERSON, COURSE, INSTITUTION, YEAR. [[Content](link)]
 ``` 
 For example: 
 * **LLMs Control Robots**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
