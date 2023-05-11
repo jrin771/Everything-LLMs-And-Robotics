@@ -35,19 +35,36 @@ If you find this repository useful, please consider citing and STARing this list
 
 # Overview
 
-[Reasoning] (#reasoning)
-Planning
-Manipulation
-Instructions and Navigation
-Simulation Frameworks
-Citation
+- [Reasoning](#reasoning)
+- [Planning](#planning)
+- [Manipulation](#manipulation)
+- [Instructions and Navigation](#instructions-and-navigation)
+- [Simulation Frameworks](#simulation-frameworks)
+- [Citation](#citation)
 
 
-## This is the reasoning <a name="reasoning"></a>
-hello
+## Reasoning <a name="reasoning"></a>
 
+Hello
 
-# Citation 
+## Planning <a name="planning"></a>
+
+Content
+
+## Manipulation <a name="manipulation"></a>
+
+Content
+
+## Instructions and Navigation <a name="instructions-and-navigation"></a>
+
+Content
+
+## Simulation Frameworks <a name="simulation-frameworks"></a>
+
+Content
+
+## Citation <a name="citation"></a>
+
 If you find this repository useful, please consider citing this list:
 
 ```
