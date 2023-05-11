@@ -19,10 +19,10 @@ Do that
 
 ## FOR TWITTER THREADS THAT DON'T SUCK 
 ``` 
-* ** Short Title**: "THREAD SUMMARY", @USERNAME, YEAR. [[Thread](link)]  
+* ** Short Title**: @USERNAME, YEAR. [[Thread](link)]  
 ```  
 For example: 
-* **Bitter Lesson 2.0**: "Bitter Lesson 2.0", *@hausman_k, 2023* [[Thread](https://twitter.com/hausman_k/status/1612509549889744899 
+* **Bitter Lesson 2.0**: *@hausman_k, 2023* [[Thread](https://twitter.com/hausman_k/status/1612509549889744899 
 )]
 
 For example:
