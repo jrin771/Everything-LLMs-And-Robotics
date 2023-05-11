@@ -1,6 +1,8 @@
 ## WHY PULL REQUESTS? 
 In other repositories, such as [awesome-cv](https://github.com/jbhuang0604/awesome-computer-vision) there is the option for email, but I chose to not do that to ensure that every update is treated the same (equity) and so that every update is in one place (organization and efficiency). 
 
+Currently I can guarantee that within 5 business days your pull request will be approved IF it meets requirements. I am actively working to get this down to 3 and then 1 business day.
+
 ## I WANT TO ADD A
 - [Paper](#paper)
 - [Project Demo](#project-demo) 
