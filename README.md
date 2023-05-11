@@ -8,6 +8,8 @@ This repo contains:
 
 And everything else related to the intersection of LLMs and Robotics!  
 
+Here's why I made this: (put in link to blog here)
+
 # Logistics 
 If you want to add papers, project demos, courses, or anything related to LLMs and Robotics, follow the pull request procedure. 
 
