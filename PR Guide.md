@@ -1,5 +1,9 @@
 Suggestions/ paper updates/ any contributions to this list are most welcome! Please feel free to *open issues* or *create pull requests* as follows: <br> 
 
+## WHY DO I ONLY HAVE PULL REQUESTS? 
+In other repositories, such as awesome-cv (INCLUDE LINK HERE TO THEM) they have the option for email, but I chose to not do that to ensure that every update is treated the same (equity) and so that every update is in one place (organization and efficiency). 
+
+
 ## FOR PAPERS
 Modify the README.md and follow the format 
 ``` 
@@ -25,9 +29,5 @@ For example:
 For example: 
 
 * **Bitter Lesson 2.0**: *@hausman_k, 2023* [[Thread](https://twitter.com/hausman_k/status/1612509549889744899)]
-
-## WHY DO I ONLY HAVE PULL REQUESTS? 
-In other repositories, such as awesome-cv (INCLUDE LINK HERE TO THEM) they have the option for email, but I chose to not do that to ensure that every update is treated the same (equity) and so that every update is in one place (organization and efficiency). 
-
 
 
