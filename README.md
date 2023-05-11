@@ -54,7 +54,8 @@ Content
 
 ## Project Demos <a name="project-demos"></a> 
 
-Content  
+* **SPOT GPT**: "Boston Dynamics Integration of ChatGPT into SPOT Robot", Boston Dynamics, 2023, [[Video](https://www.youtube.com/watch?v=XyCKe3rrYik)] 
+* ** RobotGPT**: "Orangewood Labs RoboGPT Demo", Orangewood Labs, 2023, [[Video](https://www.youtube.com/watch?v=56Ip4CBfX-E)]
 
 ## Educational Materials <a name="educational-materials"></a> 
 
