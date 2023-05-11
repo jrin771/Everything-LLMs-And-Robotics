@@ -1,5 +1,5 @@
 # Everything-LLMs-And-Robotics
-Aspiring to be the world's LARGEST Github repo for Large Language/Multi-Modal Models for Robotics/RL Papers, Project Demos, Courses and more!
+Aspiring to be the world's LARGEST Github repo for LLMs + Robotics Research, Project Demos, Educational Materials and more!
 
 This repo contains: 
 * RESEARCH PAPERS 
