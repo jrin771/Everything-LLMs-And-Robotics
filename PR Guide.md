@@ -72,7 +72,7 @@ WHAT IS YOUR IDEA: I think we should add a new section for twitter accounts that
 
 "SO WHAT?" (WHY SHOULD WE DO THIS): This would 
 
-HOW ARE WE GOING TO DO THIS?: We can create a new section in README.md, A new PR format in PR GUIDE.md
+HOW ARE WE GOING TO DO THIS?: We can create a new section in README.md and a new PR format in PR GUIDE.md
 
 
 
