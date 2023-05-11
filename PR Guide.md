@@ -17,6 +17,16 @@ Do this
 
 Do that 
 
+## FOR TWITTER THREADS THAT DON'T SUCK 
+``` 
+* ** Short Title**: "THREAD SUMMARY", @USERNAME, YEAR. [[Thread](link)]  
+```  
+For example: 
+* **Bitter Lesson 2.0**: "Bitter Lesson 2.0", *@hausman_k, 2023* [[Thread](https://twitter.com/hausman_k/status/1612509549889744899 
+)]
+
+For example:
+
 ## WHY DO I ONLY HAVE PULL REQUESTS? 
 In other repositories, such as awesome-cv (INCLUDE LINK HERE TO THEM) they have the option for email, but I chose to not do that to ensure that every update is treated the same (equity) and so that every update is in one place (organization and efficiency). 
 
