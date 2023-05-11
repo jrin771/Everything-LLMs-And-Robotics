@@ -4,7 +4,8 @@ Aspiring to be the world's LARGEST Github repo for LLMs + Robotics Papers, Proje
 This repo contains: 
 * RESEARCH PAPERS 
 * PROJECT DEMOS 
-* COURSES/PEDAGOGY
+* EDUCATIONAL MATERIALS 
+* TWITTER THREADS THAT DON'T SUCK
 
 And everything else related to the intersection of LLMs and Robotics!  
 
