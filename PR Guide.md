@@ -1,5 +1,5 @@
 ## WHY PULL REQUESTS? 
-In other repositories, such as [awesome-cv](https://github.com/jbhuang0604/awesome-computer-vision) there is the option for email, but I chose to not do that to ensure that every update is treated the same and is in one place.
+In other repositories, such as [awesome-cv](https://github.com/jbhuang0604/awesome-computer-vision) there is the option for email, but I chose to not do that to ensure that every update is treated the same and is in one place. More details are in Good Practices.md
 
 ## I DON'T KNOW HOW A PULL REQUEST WORKS 
 
