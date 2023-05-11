@@ -8,6 +8,7 @@ This repo contains:
 
 And everything else related to the intersection of LLMs and Robotics!  
 
+# Logistics 
 This repo is inspired by 
 * [CS199: Stanford Robotics Independent Study](https://pupper-independent-study.readthedocs.io/en/latest/index.html) (Will be an official class next winter!)
 * [GPT-RIPL](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
