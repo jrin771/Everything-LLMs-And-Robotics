@@ -1,14 +1,6 @@
 # Everything-LLMs-And-Robotics
 The world's largest Github Repository for LLMs + Robotics
 
-Contains:
-* RESEARCH PAPERS 
-* PROJECT DEMOS 
-* EDUCATIONAL MATERIALS 
-* TWITTER THREADS THAT DON'T SUCK
-
-And everything else related to the intersection of LLMs and Robotics!  
-
 Here's why I made this: (put link to blog) 
 
 Heavily Inspired by [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
@@ -16,7 +8,7 @@ Heavily Inspired by [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LL
 # Logistics 
 If you want to add papers, project demos, courses, or anything related to LLMs and Robotics, follow the pull request procedure in PR Guide.md. 
 
-# Overview
+# What do we have?
 
 - [Rsearch: Reasoning](#research-reasoning)
 - [Research: Planning](#research-planning)
