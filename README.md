@@ -10,6 +10,7 @@ This repo contains:
 And everything else related to the intersection of LLMs and Robotics!  
 
 Here's why I made this: (put link to blog) 
+
 Heavily Inspired by [GPT-RIPL](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
 # Logistics 
