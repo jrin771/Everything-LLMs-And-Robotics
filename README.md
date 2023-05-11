@@ -6,7 +6,9 @@ Why I made this: (put link to my blog with why I made this as the purple link)
 Heavily Inspired by [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
 # Logistics 
-If you want to add papers, project demos, courses, or anything related to LLMs and Robotics, follow the pull request procedure in PR Guide.md. 
+If you want to add papers, project demos, courses, or anything related to LLMs and Robotics, follow the pull request procedure in 
+
+PR Guide.md. 
 
 # What Do We Have?
 
