@@ -14,7 +14,7 @@ FOR PROJECTS
 FOR DEMOS 
 
 
-## WHY DO WE ONLY HAVE PULL REQUESTS? 
+## WHY DO I ONLY HAVE PULL REQUESTS? 
 In other repositories, such as awesome-cv (INCLUDE LINK HERE TO THEM) they have the option for email, but I chose to not do that to ensure that every update is treated the same (equity) and so that every update is in one place (organization and efficiency). 
 
 
