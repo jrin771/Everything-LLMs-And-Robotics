@@ -21,7 +21,7 @@ If you want to learn why we do the things that we do (and how you can incorporat
 - [Research: Simulation Frameworks](#research-simulation-frameworks)
 - [Project Demos](#project-demos) 
 - [Educational Materials](#educational-materials) 
-- [Twitter Threads That Don't Suck](#twitter-threads-that-don't-suck)
+- [Thoughtful Twitter Threads](#thoughtful-twitter-threads)
 - [Citation](#citation)
 
 
@@ -64,7 +64,7 @@ Content
 
 * **Controlling Robots Via Large Language Models**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
 
-## Twitter Threads That Don't Suck <a name="twitter-threads-that-don't-suck"></a>
+## Thoughtful Twitter Threads <a name="thoughtful-twitter-threads"></a>
 * **Bitter Lesson 2.0**: *@hausman_k, 2023* [[Thread](https://twitter.com/hausman_k/status/1612509549889744899 
 )] 
 
