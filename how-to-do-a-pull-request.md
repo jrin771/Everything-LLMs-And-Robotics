@@ -1,4 +1,4 @@
-## HOW TO DO A PULL REQUEST 
+# HOW TO DO A PULL REQUEST 
 
 Whether you've never done a pull request (PR) before or it's slipping your memory, here's a step-by-step guide for doing a PR. 
 
