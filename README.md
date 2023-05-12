@@ -63,6 +63,8 @@ Content
 
 * **Mona**: "Vitruvian Works Robot Demonstration", Vitruvian Works, 2023, [[Video](https://www.youtube.com/watch?v=xZ7ROSxcako)]
 
+* **Ameca**: "Ameca Expressions with GPT-3 / 4", Engineered Arts, 2023, [[Video](https://www.youtube.com/watch?v=yUszJyS3d7A)]
+
 ## Educational Materials <a name="educational-materials"></a> 
 
 * **Controlling Robots Via Large Language Models**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
