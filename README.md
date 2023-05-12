@@ -1,7 +1,7 @@
 # Everything-LLMs-And-Robotics
 The world's largest GitHub Repository for LLMs + Robotics
 
-Why I made this: (put link to my blog with why I made this as the purple link) 
+Why I made this: An Explanation (blue link here) 
 
 Heavily Inspired by [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
