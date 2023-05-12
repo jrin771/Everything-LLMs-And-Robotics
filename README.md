@@ -1,5 +1,12 @@
-# Everything-LLMs-And-Robotics
-The world's largest GitHub Repository for LLMs + Robotics
+# Everything-AI-And-Robotics
+The world's largest GitHub Repository for the intersection of AI + Robotics
+
+ok yeah that levels up the ambition. What does this even have? Is it worth it to have such a large repository? Perhaps, but I think it's worth having anyways. It literally is: If it includes AI and Robotics, put it here. 
+Is this something even worth having over LLMs + Robotics? Perhaps. But I'll see what currently exists and this would, uh, be pretty wild to have as an acceleration thing. 
+
+
+
+
 
 Why I made this: An Explanation (blue link here) 
 
