@@ -27,7 +27,8 @@ If you want to learn why we do the things that we do (and how you can incorporat
 
 Things to add: 
 Alan's paper 
-Recent demos with multiple cleaning/house robots 
+Condename Burnham - Amazon GPT robot 
+Tidybot - LLM powered robot 
 This paper: https://arxiv.org/abs/2302.12915 
 
 
