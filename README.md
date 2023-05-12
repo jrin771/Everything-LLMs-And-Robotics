@@ -25,6 +25,12 @@ If you want to learn why we do the things that we do (and how you can incorporat
 - [Citation](#citation)
 
 
+Things to add: 
+Alan's paper 
+Recent demos with multiple cleaning/house robots 
+This paper: https://arxiv.org/abs/2302.12915 
+
+
 ## Reasoning <a name="research-reasoning"></a> 
 
 * **RT-1**: "RT-1: Robotics Transformer for Real-World Control at Scale", arXiv, Dec 2022. [[Paper](https://arxiv.org/abs/2212.06817)] [[Code](https://github.com/google-research/robotics_transformer)] [[Website](https://robotics-transformer.github.io)]
