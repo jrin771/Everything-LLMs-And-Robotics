@@ -64,7 +64,7 @@ ERROR IDENTIFIED: [README.MD/PROJECT DEMO/SPOT GPT], The link is dead
 ERROR FIX: [README.MD/PROJECT DEMO/SPOT GPT], The link was replaced with a working link
 
 ## ADMINISTRATIVE CHANGES <a name="administrative-changes"></a>
-This is more informal since it is intended to be a catch-all, but if you have an idea for how to improve Everything-LLMs-And-Robotics then follow this format: 
+This is more informal since it is intended to be a catch-all, but if you have an idea for how to improve Everything-LLMs-And-Robotics then follow this format, which if approved will be implemented ASAP. Try to keep suggestions as small and modular. If you have a very big idea, send multiple pull requests to allow for your vision to be more clearly articulated: 
 ``` 
 WHAT IS YOUR IDEA: Brief description
 "SO WHAT?" (WHY SHOULD WE DO THIS): Brief Description
@@ -75,7 +75,7 @@ For example:
 
 WHAT IS YOUR IDEA: I think we should add a new section for twitter accounts that people should follow in LLMs + Robotics
 
-"SO WHAT?" (WHY SHOULD WE DO THIS): This would 
+"SO WHAT?" (WHY SHOULD WE DO THIS): This would help to further strengthen the community.
 
 HOW ARE WE GOING TO DO THIS?: We can create a new section in README.md and a new PR format in PR GUIDE.md
 
