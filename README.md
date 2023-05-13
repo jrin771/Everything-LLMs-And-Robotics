@@ -6,9 +6,7 @@ Why I made this: An Explanation (blue link here) (This explanation also includes
 Heavily Inspired by [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
 # Logistics 
-If you want to change this repository [click here](PR-Guide.md)
-
-If you want to learn how a pull request works [click here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+If you want to make a change this repository [click here](PR-Guide.md)
 
 If you want to learn why we do the things that we do (and how you can incorporate them in your own work) click here (add this later)
 
