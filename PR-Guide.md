@@ -1,10 +1,7 @@
 ## WHY PULL REQUESTS? 
-In other repositories, such as [awesome-cv](https://github.com/jbhuang0604/awesome-computer-vision) there is the option for email, but I chose to not do that to ensure that every update is treated the same and is in one place. More details are [here.](https://jrin771.github.io) 
+Explanation [here.](https://jrin771.github.io) 
 
-EVENTUALLY FIX THE LINK HERE SO THAT IT GOES TO THE RIGHT PLACE BUT FOR NOW IT'S A PLACEHOLDER
-
-
-If you want to learn how to do a pull request, [go here.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+How do I do a pull request? [Go here.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 ## I WANT TO ADD A 
 - [Educational Resource](#educational-resource)
