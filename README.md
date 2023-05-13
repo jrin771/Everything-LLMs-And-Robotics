@@ -8,7 +8,7 @@ Heavily Inspired by [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LL
 # Logistics 
 If you want to make a change this repository [click here](PR-Guide.md)
 
-If you want to learn why we do the things that we do (and how you can incorporate them in your own work) click here (add this later)
+If you want to learn why we do the things that we do (and how you can incorporate them in your own work) [click here](https://jrin771.github.io)
 
 # What Do We Have?
 
