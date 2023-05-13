@@ -12,9 +12,9 @@ If you want to learn why we do the things that we do (and how you can incorporat
 
 # What Does This Repository Have? 
 
-- [Introduction: LLMs Resources](#llms-resources)
-- [Introduction: Robotics Resources](#robotics-resources)
-- [Introduction: LLMs + Robotics Resources](#llms-and-robotics-resources)
+- [Introduction: LLMs](#llms)
+- [Introduction: Robotics](#robotics)
+- [Introduction: LLMs + Robotics](#llms-and-robotics)
 - [Research: Reasoning](#research-reasoning)
 - [Research: Planning](#research-planning)
 - [Research: Manipulation](#research-manipulation)
@@ -33,18 +33,18 @@ See if there's anything else course-wise I can add espeically lecture slides/tal
 
 After all of that is done I'm going to go through and see if I can add at a minimum 5 papers to each of these categories if not more.
 Make sure links, spacing, typos, overall message is good, then draft a tweet thread and have this thing blow up. 
-## LLMs Introductory Resources <a name="llms-resources"></a>  
+## LLMs Introductory Resources <a name="llms"></a>  
 CONTENT 
 What is a transformer ground up explainer
 Transformers United class from stanford
 
-## Robotics Introductory Resources <a name="robotics-resources"></a> 
+## Robotics Introductory Resources <a name="robotics"></a> 
 CONTENT: 
 Easier: CS199 from stanford (will be a full class next year that I (jrin@stanford.edu) will be TAing for!)
 Harder: CS223 from stanford
 
 
-## LLMs + Robotics Introductory Resources <a name="llms-and-robotics-resources"></a> 
+## LLMs + Robotics Introductory Resources <a name="llms-and-robotics"></a> 
 * **Google's 2022 Research** https://ai.googleblog.com/2023/02/google-research-2022-beyond-robotics.html 
 
 
