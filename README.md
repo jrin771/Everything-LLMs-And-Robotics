@@ -31,8 +31,13 @@ Condename Burnham - Amazon GPT robot
 
 Tidybot - LLM powered robot 
 
-This paper: https://arxiv.org/abs/2302.12915 
+This paper: https://arxiv.org/abs/2302.12915  
 
+1 additional new category to add based off of the prior repository  
+See if there's anything else course-wise I can add espeically lecture slides/talks/etc. 
+4 Full categories to add in proper documentation 
+
+After all of that is done I'm going to go through and see if I can add at a minimum 5 papers to each of these categories if not more.
 
 ## Reasoning <a name="research-reasoning"></a> 
 
@@ -50,19 +55,63 @@ This paper: https://arxiv.org/abs/2302.12915
 
 ## Planning <a name="research-planning"></a>
 
-Content
+* **LM-Nav**: "Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action", arXiv, July 2022. [Paper] [Pytorch Code] [Website]
+
+* **InnerMonlogue**: "Inner Monologue: Embodied Reasoning through Planning with Language Models", arXiv, July 2022. [Paper] [Website]
+
+* **Housekeep**: "Housekeep: Tidying Virtual Households using Commonsense Reasoning", arXiv, May 2022. [Paper] [Pytorch Code] [Website]
+
+* **LID**: "Pre-Trained Language Models for Interactive Decision-Making", arXiv, Feb 2022. [Paper] [Pytorch Code] [Website]
+
+* **ZSP**: "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", ICML, Jan 2022. [Paper] [Pytorch Code] [Website]
 
 ## Manipulation <a name="research-manipulation"></a>
 
-Content
+* **DIAL**:"Robotic Skill Acquistion via Instruction Augmentation with Vision-Language Models", "arXiv, Nov 2022", [Paper] [Website]
+
+* **CLIP-Fields**:"CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory", "arXiv, Oct 2022", [Paper] [PyTorch Code] [Website]
+
+* **VIMA**:"VIMA: General Robot Manipulation with Multimodal Prompts", "arXiv, Oct 2022", [Paper] [Pytorch Code] [Website]
+
+* **Perceiver-Actor**:"A Multi-Task Transformer for Robotic Manipulation", CoRL, Sep 2022. [Paper] [Pytorch Code] [Website]
+
+* **LaTTe**: "LaTTe: Language Trajectory TransformEr", arXiv, Aug 2022. [Paper] [TensorFlow Code] [Website]
+
+* **Robots Enact Malignant Stereotypes**: "Robots Enact Malignant Stereotypes", FAccT, Jun 2022. [Paper] [Pytorch Code] [Website] [Washington Post] [Wired] (code access on request)
+
+* **ATLA**: "Leveraging Language for Accelerated Learning of Tool Manipulation", CoRL, Jun 2022. [Paper]
+
+* **ZeST**: "Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?", L4DC, Apr 2022. [Paper]
+
+* **LSE-NGU**: "Semantic Exploration from Language Abstractions and Pretrained Representations", arXiv, Apr 2022. [Paper]
+
+* **Embodied-CLIP**: "Simple but Effective: CLIP Embeddings for Embodied AI ", CVPR, Nov 2021. [Paper] [Pytorch Code]
+
+* **CLIPort**: "CLIPort: What and Where Pathways for Robotic Manipulation", CoRL, Sept 2021. [Paper] [Pytorch Code] [Website]
 
 ## Instructions and Navigation <a name="research-instructions-and-navigation"></a>
 
-Content
+* **ADAPT**: "ADAPT: Vision-Language Navigation with Modality-Aligned Action Prompts", CVPR, May 2022. [Paper]
+
+* **Pre-Trained Vision Models for Control**: "The Unsurprising Effectiveness of Pre-Trained Vision Models for Control", ICML, Mar 2022. [Paper] [Pytorch Code] [Website]
+
+* **CoW**: "CLIP on Wheels: Zero-Shot Object Navigation as Object Localization and Exploration", arXiv, Mar 2022. [Paper]
+
+* **Recurrent VLN-BERT**: "A Recurrent Vision-and-Language BERT for Navigation", CVPR, Jun 2021 [Paper] [Pytorch Code]
+
+* **VLN-BERT**: "Improving Vision-and-Language Navigation with Image-Text Pairs from the Web", ECCV, Apr 2020 [Paper] [Pytorch Code]
+
+* **Interactive Language**: "Interactive Language: Talking to Robots in Real Time", arXiv, Oct 2022 [Paper] [Website]
 
 ## Simulation Frameworks <a name="research-simulation-frameworks"></a>
 
-Content
+* **MineDojo**: "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge", arXiv, Jun 2022. [Paper] [Code] [Website] [Open Database]
+* **Habitat 2.0**: "Habitat 2.0: Training Home Assistants to Rearrange their Habitat", NeurIPS, Dec 2021. [Paper] [Code] [Website]
+* **BEHAVIOR**: "BEHAVIOR: Benchmark for Everyday Household Activities in Virtual, Interactive, and Ecological Environments", CoRL, Nov 2021. [Paper] [Code] [Website]
+* **iGibson 1.0**: "iGibson 1.0: a Simulation Environment for Interactive Tasks in Large Realistic Scenes", IROS, Sep 2021. [Paper] [Code] [Website]
+* **ALFRED**: "ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks", CVPR, Jun 2020. [Paper] [Code] [Website]
+* **BabyAI**: "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning", ICLR, May 2019. [Paper] [Code]
+
 
 ## Project Demos <a name="project-demos"></a> 
 
