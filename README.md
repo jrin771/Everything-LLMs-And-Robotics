@@ -1,5 +1,5 @@
 # Everything-LLMs-And-Robotics
-The world's largest GitHub Repository for the intersection of LLMs + Robotics 
+The world's largest GitHub Repository for the intersection of LLMs (multimodal variants included!) + Robotics 
 
 Why I made this: An Explanation (blue link here) (This explanation also includes why I'm not filing it under an "awesome" category, because I wanted to do a fundamental restructuring of this topic and I think I can do better than what currently exists).
 
@@ -11,10 +11,6 @@ If you want to make a change this repository [click here](PR-Guide.md)
 If you want to learn why we do the things that we do (and how you can incorporate them in your own work) [click here](https://jrin771.github.io)
 
 # What Does This Repository Have? 
-
-High level: 
-
-This repository contains LLMs (including VLMs and other multimodal variations) and robotic/robotic related tasks, however RL methods, while vital to both the AI and robotics communitites, included only when necessary to maintain a reasonable scope.
 
 - [Research: Reasoning](#research-reasoning)
 - [Research: Planning](#research-planning)
