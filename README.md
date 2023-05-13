@@ -1,5 +1,7 @@
 # Everything-LLMs-And-Robotics
-The world's largest GitHub Repository for the intersection of LLMs + Robotics
+The world's largest GitHub Repository for the intersection of LLMs + Robotics 
+
+Note: For this repository LLMs includes VLMs and other multimodal models that could be called "foundation" models, however RL methods (while essential to modern robotics) are not included as they be beyond the scope of this repository.
 
 Why I made this: An Explanation (blue link here) (This explanation also includes why I'm not filing it under an "awesome" category, because I wanted to do a fundamental restructuring of this topic and I think I can do better than what currently exists).
 
