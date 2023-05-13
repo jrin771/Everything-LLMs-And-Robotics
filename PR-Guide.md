@@ -7,20 +7,20 @@ EVENTUALLY FIX THE LINK HERE SO THAT IT GOES TO THE RIGHT PLACE BUT FOR NOW IT'S
 If you want to learn how to do a pull request, [go here.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 ## I WANT TO ADD A 
-- [Introductory Resource](#intro-resource)
+- [Educational Resource](#educational-resource)
 - [Paper](#paper)
 - [Project Demo](#project-demo) 
-- [Educational Material](#educational-material) 
 - [Twitter Thread That Doesn't Suck](#twitter-thread-that-doesn't-suck) 
 - [Clean Up](#clean-up) 
 - [Administrative Changes](#administrative-changes)
 
-## INTRODUCTORY RESOURCES 
+## EDUCATIONAL RESOURCE <a name="educational-resource"></a>
 Modify the README.md and follow the format 
 ``` 
-* ** Short Title**: "TITLE", INSTITUTION, YEAR. [[NAME OF RESOURCE](link)]
+* ** Short Title**: "TITLE", PERSON, COURSE, INSTITUTION, YEAR. [[Content](link)]
 ``` 
-* **Transformers from scratch** "", ____, ______. [[]()]
+For example: 
+* **LLMs Control Robots**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
 
 ## PAPER <a name="paper"></a>
 Modify the README.md and follow the format 
@@ -39,14 +39,6 @@ Modify the README.md and follow the format
 For example: 
 
 * **SPOT GPT**: "Boston Dynamics Integration of ChatGPT into SPOT Robot", Boston Dynamics, 2023, [[Video](https://www.youtube.com/watch?v=XyCKe3rrYik)]
-
-## EDUCATIONAL MATERIAL <a name="educational-material"></a>
-Modify the README.md and follow the format 
-``` 
-* ** Short Title**: "TITLE", PERSON, COURSE, INSTITUTION, YEAR. [[Content](link)]
-``` 
-For example: 
-* **LLMs Control Robots**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
 
 ## TWITTER THREAD THAT DOESN'T SUCK <a name="twitter-thread-that-doesn't-suck"></a>
 Modify the README.md and follow the format 
