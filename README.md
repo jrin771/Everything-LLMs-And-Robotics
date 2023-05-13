@@ -12,9 +12,9 @@ If you want to learn why we do the things that we do (and how you can incorporat
 
 # What Does This Repository Have? 
 
-- [Beginner: LLMs Resources](#llms-resources)
-- [Beginner: Robotics Resources](#robotics-resources)
-- [Beginner: LLMs + Robotics Resources](#llms-and-robotics-resources)
+- [Introduction: LLMs Resources](#llms-resources)
+- [Introduction: Robotics Resources](#robotics-resources)
+- [Introduction: LLMs + Robotics Resources](#llms-and-robotics-resources)
 - [Research: Reasoning](#research-reasoning)
 - [Research: Planning](#research-planning)
 - [Research: Manipulation](#research-manipulation)
