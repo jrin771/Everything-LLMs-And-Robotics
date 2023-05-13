@@ -12,9 +12,9 @@ If you want to learn why we do the things that we do (and how you can incorporat
 
 # What Does This Repository Have? 
 
-- CHECK [Introduction: LLMs](#llms) 
-- CHECK [Introduction: Robotics](#robotics)
-- CHECK [Introduction: LLMs + Robotics](#llms-and-robotics)
+- [Education: LLMs](#llms) 
+- [Education: Robotics](#robotics)
+- [Education: LLMs + Robotics](#llms-and-robotics)
 - [Research: Reasoning](#research-reasoning)
 - [Research: Planning](#research-planning)
 - [Research: Manipulation](#research-manipulation)
@@ -22,21 +22,22 @@ If you want to learn why we do the things that we do (and how you can incorporat
 - [Research: Simulation Frameworks](#research-simulation-frameworks)
 - [Research: Perception](#research-perception)
 - [Project Demos](#project-demos) 
-- [Educational Materials](#educational-materials) 
 - [Thoughtful Twitter Threads](#thoughtful-twitter-threads)
 - [Citation](#citation)
 
-## LLMs Introductory Resources <a name="llms"></a>  
+## LLMs Educational Resources <a name="llms"></a>  
 * **START HERE**: "Transformers from Scratch", Brandon Rohrer, [[Website](https://e2eml.school/transformers.html)]
 * **Stanford Transformers Class**: "CS25: Transformers United", Stanford, 2022, [[Website](https://web.stanford.edu/class/cs25/)]
 * **Stephen Wolfram Explains ChatGPT**: "What Is ChatGPT Doing … and Why Does It Work?" [[Website](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)]
 * **Andrej Karpathy GPT Tutorial**: "Let's build GPT: from scratch, in code, spelled out." Andrej Karpathy, 2023 [[Youtube Video](https://www.youtube.com/watch?v=kCc8FmEb1nY)]
 
-## Robotics Introductory Resources <a name="robotics"></a> 
+## Robotics Educational Resources <a name="robotics"></a> 
 * **AI-Enabled Robotics Class**: "CS199: Stanford Robotics Independent Study", Stanford, 2023, [[Website](https://pupper-independent-study.readthedocs.io/en/latest/index.html)] 
 
-## LLMs + Robotics Introductory Resources <a name="llms-and-robotics"></a> 
+## LLMs + Robotics Educational Resources <a name="llms-and-robotics"></a> 
 * **Google's 2022 Research** "Google Research, 2022 & beyond: Robotics", Google, 2023, [[Website](https://ai.googleblog.com/2023/02/google-research-2022-beyond-robotics.html)]
+
+* **Controlling Robots Via Large Language Models**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
 
 ## Reasoning <a name="research-reasoning"></a> 
 
@@ -137,10 +138,6 @@ If you want to learn why we do the things that we do (and how you can incorporat
 * **Ameca**: "Ameca Expressions with GPT-3 / 4", Engineered Arts, 2023, [[Video](https://www.youtube.com/watch?v=yUszJyS3d7A)]
 
 * **Sarcastic Robot**: "Sarcastic Robot powered by GPT-4", Gabrael Levine (Hackathon Project), 2023, [[Video](https://www.youtube.com/watch?v=PgT8tPChbqc)] 
-
-## Educational Materials <a name="educational-materials"></a> 
-
-* **Controlling Robots Via Large Language Models**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
 
 ## Thoughtful Twitter Threads <a name="thoughtful-twitter-threads"></a>
 * **Bitter Lesson 2.0**: *@hausman_k, 2023* [[Thread](https://twitter.com/hausman_k/status/1612509549889744899 
