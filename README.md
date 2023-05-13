@@ -34,7 +34,10 @@ See if there's anything else course-wise I can add espeically lecture slides/tal
 After all of that is done I'm going to go through and see if I can add at a minimum 5 papers to each of these categories if not more.
 Make sure links, spacing, typos, overall message is good, then draft a tweet thread and have this thing blow up. 
 ## LLMs Introductory Resources <a name="llms"></a>  
-CONTENT 
+* **START HERE** "Transformers from Scratch", Brandon Rohrer, [[Website](https://e2eml.school/transformers.html)]
+* **Stanford Transformers Class** "CS25: Transformers United", Stanford, 2022, [[Website](https://web.stanford.edu/class/cs25/)]
+* **Stephen Wolfram Explains LLMs**
+* **Andrej Karpathy Tutorial**
 What is a transformer ground up explainer
 Transformers United class from stanford
 
