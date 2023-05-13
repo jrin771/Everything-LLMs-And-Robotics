@@ -38,6 +38,7 @@ See if there's anything else course-wise I can add espeically lecture slides/tal
 4 Full categories to add in proper documentation 
 
 After all of that is done I'm going to go through and see if I can add at a minimum 5 papers to each of these categories if not more.
+Make sure links, spacing, typos, overall message is good, then draft a tweet thread and have this thing blow up. 
 
 ## Reasoning <a name="research-reasoning"></a> 
 
@@ -106,12 +107,16 @@ After all of that is done I'm going to go through and see if I can add at a mini
 ## Simulation Frameworks <a name="research-simulation-frameworks"></a>
 
 * **MineDojo**: "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge", arXiv, Jun 2022. [Paper] [Code] [Website] [Open Database]
-* **Habitat 2.0**: "Habitat 2.0: Training Home Assistants to Rearrange their Habitat", NeurIPS, Dec 2021. [Paper] [Code] [Website]
-* **BEHAVIOR**: "BEHAVIOR: Benchmark for Everyday Household Activities in Virtual, Interactive, and Ecological Environments", CoRL, Nov 2021. [Paper] [Code] [Website]
-* **iGibson 1.0**: "iGibson 1.0: a Simulation Environment for Interactive Tasks in Large Realistic Scenes", IROS, Sep 2021. [Paper] [Code] [Website]
-* **ALFRED**: "ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks", CVPR, Jun 2020. [Paper] [Code] [Website]
-* **BabyAI**: "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning", ICLR, May 2019. [Paper] [Code]
 
+* **Habitat 2.0**: "Habitat 2.0: Training Home Assistants to Rearrange their Habitat", NeurIPS, Dec 2021. [Paper] [Code] [Website]
+
+* **BEHAVIOR**: "BEHAVIOR: Benchmark for Everyday Household Activities in Virtual, Interactive, and Ecological Environments", CoRL, Nov 2021. [Paper] [Code] [Website]
+
+* **iGibson 1.0**: "iGibson 1.0: a Simulation Environment for Interactive Tasks in Large Realistic Scenes", IROS, Sep 2021. [Paper] [Code] [Website]
+
+* **ALFRED**: "ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks", CVPR, Jun 2020. [Paper] [Code] [Website]
+
+* **BabyAI**: "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning", ICLR, May 2019. [Paper] [Code]
 
 ## Project Demos <a name="project-demos"></a> 
 
