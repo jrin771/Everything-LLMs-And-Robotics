@@ -8,7 +8,7 @@ If you want to learn how to do a pull request, [go here.](https://docs.github.co
 
 ## I WANT TO ADD A 
 - [Educational Resource](#educational-resource)
-- [Paper](#paper)
+- [Research Paper](#paper)
 - [Project Demo](#project-demo) 
 - [Twitter Thread That Doesn't Suck](#twitter-thread-that-doesn't-suck) 
 - [Clean Up](#clean-up) 
@@ -22,7 +22,7 @@ Modify the README.md and follow the format
 For example: 
 * **LLMs Control Robots**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
 
-## PAPER <a name="paper"></a>
+## RESEARCH PAPER <a name="paper"></a>
 Modify the README.md and follow the format 
 ``` 
 * ** Short Title**: "TITLE", CONFERENCE, YEAR. [[Paper/PDF](link)] [[Code](link)] [[Website](link)]
