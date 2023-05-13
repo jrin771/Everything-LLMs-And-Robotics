@@ -3,7 +3,7 @@ In other repositories, such as [awesome-cv](https://github.com/jbhuang0604/aweso
 
 ## I DON'T KNOW HOW A PULL REQUEST WORKS 
 
-If you want to know how to do a pull request, [go to this file.](how-to-do-a-pull-request.md)
+If you want to know how to do a pull request, [go here.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 ## I WANT TO ADD A
 - [Paper](#paper)
