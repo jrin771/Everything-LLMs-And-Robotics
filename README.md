@@ -1,5 +1,5 @@
 # Everything-LLMs-And-Robotics
-The world's largest GitHub Repository for the intersection of LLMs (multimodal variants included!) + Robotics 
+The world's largest GitHub Repository for the intersection of LLMs (multimodal included!) + Robotics 
 
 Why I made this: An Explanation (blue link here) 
 
