@@ -65,7 +65,7 @@ Make sure links, spacing, typos, overall message is good, then draft a tweet thr
 
 ## Manipulation <a name="research-manipulation"></a>
 
-* **TidyBot**: "", arXiV, May 2023, [[Paper](https://arxiv.org/abs/2305.05658) [Website](https://tidybot.cs.princeton.edu) [Paper Website](https://huggingface.co/papers/2305.05658)]
+* **TidyBot**: "TidyBot: Personalized Robot Assistance with Large Language Models", arXiV, May 2023, [[Paper](https://arxiv.org/abs/2305.05658) [Website](https://tidybot.cs.princeton.edu) [Paper Website](https://huggingface.co/papers/2305.05658)]
 
 * **DIAL**:"Robotic Skill Acquistion via Instruction Augmentation with Vision-Language Models", arXiv, Nov 2022, [[Paper]()] [[Website]()]
 
