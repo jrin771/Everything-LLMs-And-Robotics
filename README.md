@@ -8,7 +8,7 @@ Heavily Inspired by [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LL
 # Logistics 
 If you want to change this repository [click here](PR-Guide.md)
 
-If you want to learn how a pull request works [click here](how-to-do-a-pull-request.md)
+If you want to learn how a pull request works [click here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 If you want to learn why we do the things that we do (and how you can incorporate them in your own work) click here (add this later)
 
