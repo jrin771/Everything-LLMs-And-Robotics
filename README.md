@@ -1,8 +1,6 @@
 # Everything-LLMs-And-Robotics
 The world's largest GitHub Repository for the intersection of LLMs + Robotics 
 
-Note: For this repository LLMs includes VLMs and other multimodal models that could be called "foundation" models, however RL methods (while essential to modern robotics) are not included as they be beyond the scope of this repository.
-
 Why I made this: An Explanation (blue link here) (This explanation also includes why I'm not filing it under an "awesome" category, because I wanted to do a fundamental restructuring of this topic and I think I can do better than what currently exists).
 
 Heavily Inspired by [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
@@ -12,9 +10,11 @@ If you want to make a change this repository [click here](PR-Guide.md)
 
 If you want to learn why we do the things that we do (and how you can incorporate them in your own work) [click here](https://jrin771.github.io)
 
-# What Do We Have?
+# What Does This Repository Have? 
 
-- [Rsearch: Reasoning](#research-reasoning)
+On a high level, this repository contains LLMs (including VLMs and other multimodal variations) and robotic/robotic related tasks, however RL methods, while vital to both the AI and robotics communitites, included only when necessary to maintain a reasonable scope.
+
+- [Research: Reasoning](#research-reasoning)
 - [Research: Planning](#research-planning)
 - [Research: Manipulation](#research-manipulation)
 - [Research: Instructions and Navigation](#research-instructions-and-navigation)
