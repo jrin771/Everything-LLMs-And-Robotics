@@ -12,7 +12,9 @@ If you want to learn why we do the things that we do (and how you can incorporat
 
 # What Does This Repository Have? 
 
-On a high level, this repository contains LLMs (including VLMs and other multimodal variations) and robotic/robotic related tasks, however RL methods, while vital to both the AI and robotics communitites, included only when necessary to maintain a reasonable scope.
+High level: 
+
+This repository contains LLMs (including VLMs and other multimodal variations) and robotic/robotic related tasks, however RL methods, while vital to both the AI and robotics communitites, included only when necessary to maintain a reasonable scope.
 
 - [Research: Reasoning](#research-reasoning)
 - [Research: Planning](#research-planning)
