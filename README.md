@@ -112,11 +112,11 @@ Make sure links, spacing, typos, overall message is good, then draft a tweet thr
 
 * **BEHAVIOR**: "BEHAVIOR: Benchmark for Everyday Household Activities in Virtual, Interactive, and Ecological Environments", CoRL, Nov 2021. [Paper] [Code] [Website]
 
-* **iGibson 1.0**: "iGibson 1.0: a Simulation Environment for Interactive Tasks in Large Realistic Scenes", IROS, Sep 2021. [Paper] [Code] [Website]
+* **iGibson 1.0**: "iGibson 1.0: a Simulation Environment for Interactive Tasks in Large Realistic Scenes", IROS, Sep 2021. [Paper](https://arxiv.org/abs/2012.02924) [Code](https://github.com/StanfordVL/iGibson) [Website](https://svl.stanford.edu/igibson/)
 
-* **ALFRED**: "ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks", CVPR, Jun 2020. [Paper] [Code] [Website]
+* **ALFRED**: "ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks", CVPR, Jun 2020. [Paper](https://arxiv.org/abs/1912.01734) [Code](https://github.com/askforalfred/alfred) [Website](https://askforalfred.com)
 
-* **BabyAI**: "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning", ICLR, May 2019. [Paper] [Code]
+* **BabyAI**: "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning", ICLR, May 2019. [Paper](https://openreview.net/pdf?id=rJeXCo0cYX) [Code](https://github.com/mila-iqia/babyai/tree/iclr19)
 
 ## Perception <a name="research-perception"></a> 
 
