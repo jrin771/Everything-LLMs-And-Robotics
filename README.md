@@ -12,7 +12,7 @@ If you want to learn why we do the things that we do (and how you can incorporat
 
 # What Does This Repository Have? 
 
-- [Introduction: LLMs](#llms)
+- CHECK [Introduction: LLMs](#llms) 
 - [Introduction: Robotics](#robotics)
 - [Introduction: LLMs + Robotics](#llms-and-robotics)
 - [Research: Reasoning](#research-reasoning)
@@ -26,28 +26,17 @@ If you want to learn why we do the things that we do (and how you can incorporat
 - [Thoughtful Twitter Threads](#thoughtful-twitter-threads)
 - [Citation](#citation)
 
-
-See if there's anything else course-wise I can add espeically lecture slides/talks/etc. 
-4 Full categories to add in links 
-
-
-After all of that is done I'm going to go through and see if I can add at a minimum 5 papers to each of these categories if not more.
-Make sure links, spacing, typos, overall message is good, then draft a tweet thread and have this thing blow up. 
 ## LLMs Introductory Resources <a name="llms"></a>  
 * **START HERE**: "Transformers from Scratch", Brandon Rohrer, [[Website](https://e2eml.school/transformers.html)]
 * **Stanford Transformers Class**: "CS25: Transformers United", Stanford, 2022, [[Website](https://web.stanford.edu/class/cs25/)]
 * **Stephen Wolfram Explains ChatGPT**: "What Is ChatGPT Doing … and Why Does It Work?" [[Website](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)]
-* **Andrej Karpathy GPT Tutorial**: "Let's build GPT: from scratch, in code, spelled out." Andrej Karpathy, 2023[[Youtube Video](https://www.youtube.com/watch?v=kCc8FmEb1nY)]
+* **Andrej Karpathy GPT Tutorial**: "Let's build GPT: from scratch, in code, spelled out." Andrej Karpathy, 2023 [[Youtube Video](https://www.youtube.com/watch?v=kCc8FmEb1nY)]
 
 ## Robotics Introductory Resources <a name="robotics"></a> 
-CONTENT: 
-Easier: CS199 from stanford (will be a full class next year that I (jrin@stanford.edu) will be TAing for!)
-Harder: CS223 from stanford
-
+* **AI-Enabled Robotics Class**: "CS199: Stanford Robotics Independent Study", Stanford, 2023, [[Website](https://pupper-independent-study.readthedocs.io/en/latest/index.html)] 
 
 ## LLMs + Robotics Introductory Resources <a name="llms-and-robotics"></a> 
-* **Google's 2022 Research** https://ai.googleblog.com/2023/02/google-research-2022-beyond-robotics.html 
-
+* **Google's 2022 Research** "Google Research, 2022 & beyond: Robotics", Google, 2023, [[Website](https://ai.googleblog.com/2023/02/google-research-2022-beyond-robotics.html)]
 
 ## Reasoning <a name="research-reasoning"></a> 
 
