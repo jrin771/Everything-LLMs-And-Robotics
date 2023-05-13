@@ -13,8 +13,8 @@ If you want to learn why we do the things that we do (and how you can incorporat
 # What Does This Repository Have? 
 
 - CHECK [Introduction: LLMs](#llms) 
-- [Introduction: Robotics](#robotics)
-- [Introduction: LLMs + Robotics](#llms-and-robotics)
+- CHECK [Introduction: Robotics](#robotics)
+- CHECK [Introduction: LLMs + Robotics](#llms-and-robotics)
 - [Research: Reasoning](#research-reasoning)
 - [Research: Planning](#research-planning)
 - [Research: Manipulation](#research-manipulation)
