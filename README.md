@@ -12,13 +12,15 @@ If you want to learn why we do the things that we do (and how you can incorporat
 
 # What Does This Repository Have? 
 
+OVERALL ADD MUCH MUCH MORE FOR NOW 
+
 - [Education: LLMs](#llms) 
 - [Education: Robotics](#robotics)
 - [Education: LLMs + Robotics](#llms-and-robotics)
 - [Research: Reasoning](#research-reasoning)
-- [Research: Planning](#research-planning)
-- [Research: Manipulation](#research-manipulation)
-- [Research: Instructions and Navigation](#research-instructions-and-navigation)
+- FINISH UP[Research: Planning](#research-planning)
+- FINISH UP[Research: Manipulation](#research-manipulation)
+- FINISH UP[Research: Instructions and Navigation](#research-instructions-and-navigation)
 - [Research: Simulation Frameworks](#research-simulation-frameworks)
 - [Research: Perception](#research-perception)
 - [Project Demos](#project-demos) 
