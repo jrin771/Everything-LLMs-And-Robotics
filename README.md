@@ -17,6 +17,7 @@ If you want to learn why we do the things that we do (and how you can incorporat
 - [Research: Manipulation](#research-manipulation)
 - [Research: Instructions and Navigation](#research-instructions-and-navigation)
 - [Research: Simulation Frameworks](#research-simulation-frameworks)
+- [Research: Perception](#research-perception)
 - [Project Demos](#project-demos) 
 - [Educational Materials](#educational-materials) 
 - [Thoughtful Twitter Threads](#thoughtful-twitter-threads)
@@ -33,7 +34,6 @@ Tidybot - LLM powered robot
 
 This paper: https://arxiv.org/abs/2302.12915  
 
-1 additional new category to add based off of the prior repository  
 See if there's anything else course-wise I can add espeically lecture slides/talks/etc. 
 4 Full categories to add in proper documentation 
 
@@ -117,6 +117,10 @@ Make sure links, spacing, typos, overall message is good, then draft a tweet thr
 * **ALFRED**: "ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks", CVPR, Jun 2020. [Paper] [Code] [Website]
 
 * **BabyAI**: "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning", ICLR, May 2019. [Paper] [Code]
+
+## Perception <a name="research-perception"></a> 
+
+CONTENT
 
 ## Project Demos <a name="project-demos"></a> 
 
