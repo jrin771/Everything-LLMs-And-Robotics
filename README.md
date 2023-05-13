@@ -24,11 +24,6 @@ If you want to learn why we do the things that we do (and how you can incorporat
 - [Citation](#citation)
 
 
-Things to add: 
-
-Alan's paper 
-
-This paper: https://arxiv.org/abs/2302.12915  
 
 See if there's anything else course-wise I can add espeically lecture slides/talks/etc. 
 4 Full categories to add in links 
@@ -53,6 +48,8 @@ Make sure links, spacing, typos, overall message is good, then draft a tweet thr
 
 ## Planning <a name="research-planning"></a>
 
+* **CLARIFY** "Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting", arXiv, March 2023 [[Paper](https://arxiv.org/abs/2303.14100)][[Code](https://github.com/ac-rad/xdl-generation)][[Website](https://ac-rad.github.io/clairify/)]
+
 * **LM-Nav**: "Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action", arXiv, July 2022. [[Paper]()] [[Pytorch Code]()] [[Website]()]
 
 * **InnerMonlogue**: "Inner Monologue: Embodied Reasoning through Planning with Language Models", arXiv, July 2022. [[Paper]()] [[Website]()]
@@ -64,6 +61,8 @@ Make sure links, spacing, typos, overall message is good, then draft a tweet thr
 * **ZSP**: "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", ICML, Jan 2022. [[Paper]()] [[Pytorch Code]()] [[Website]()]
 
 ## Manipulation <a name="research-manipulation"></a>
+
+* **MOO** "Open-World Object Manipulation using Pre-trained Vision-Language Models" arXiv, March 2023 [[Paper](https://arxiv.org/abs/2303.00905)] [[Website](https://robot-moo.github.io)]
 
 * **TidyBot**: "TidyBot: Personalized Robot Assistance with Large Language Models", arXiV, May 2023, [[Paper](https://arxiv.org/abs/2305.05658) [Website](https://tidybot.cs.princeton.edu) [Paper Website](https://huggingface.co/papers/2305.05658)]
 
@@ -119,7 +118,7 @@ Make sure links, spacing, typos, overall message is good, then draft a tweet thr
 
 ## Perception <a name="research-perception"></a> 
 
-CONTENT
+* **From Occulation To Insight**: "From Occlusion to Insight: Object Search in Semantic Shelves using Large Language Models", arXiv, Feb 2023, [[Paper](https://arxiv.org/abs/2302.12915)]
 
 ## Project Demos <a name="project-demos"></a> 
 
