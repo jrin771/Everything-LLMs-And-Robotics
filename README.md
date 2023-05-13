@@ -1,7 +1,7 @@
 # Everything-LLMs-And-Robotics
 The world's largest GitHub Repository for the intersection of LLMs (multimodal variants included!) + Robotics 
 
-Why I made this: An Explanation (blue link here) (This explanation also includes why I'm not filing it under an "awesome" category, because I wanted to do a fundamental restructuring of this topic and I think I can do better than what currently exists).
+Why I made this: An Explanation (blue link here) 
 
 Heavily Inspired by [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
@@ -22,7 +22,6 @@ If you want to learn why we do the things that we do (and how you can incorporat
 - [Educational Materials](#educational-materials) 
 - [Thoughtful Twitter Threads](#thoughtful-twitter-threads)
 - [Citation](#citation)
-
 
 
 See if there's anything else course-wise I can add espeically lecture slides/talks/etc. 
