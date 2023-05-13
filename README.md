@@ -35,7 +35,7 @@ If you want to learn why we do the things that we do (and how you can incorporat
 * **AI-Enabled Robotics Class**: "CS199: Stanford Robotics Independent Study", Stanford, 2023, [[Website](https://pupper-independent-study.readthedocs.io/en/latest/index.html)] 
 
 ## LLMs + Robotics Educational Resources <a name="llms-and-robotics"></a> 
-* **Google's 2022 Research** "Google Research, 2022 & beyond: Robotics", Google, 2023, [[Website](https://ai.googleblog.com/2023/02/google-research-2022-beyond-robotics.html)]
+* **Google's 2022 Research**: "Google Research, 2022 & beyond: Robotics", Google, 2023, [[Website](https://ai.googleblog.com/2023/02/google-research-2022-beyond-robotics.html)]
 
 * **Controlling Robots Via Large Language Models**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
 
