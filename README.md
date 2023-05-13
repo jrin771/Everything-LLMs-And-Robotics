@@ -28,14 +28,11 @@ Things to add:
 
 Alan's paper 
 
-Condename Burnham - Amazon GPT robot 
-
-Tidybot - LLM powered robot 
-
 This paper: https://arxiv.org/abs/2302.12915  
 
 See if there's anything else course-wise I can add espeically lecture slides/talks/etc. 
-4 Full categories to add in proper documentation 
+4 Full categories to add in links 
+
 
 After all of that is done I'm going to go through and see if I can add at a minimum 5 papers to each of these categories if not more.
 Make sure links, spacing, typos, overall message is good, then draft a tweet thread and have this thing blow up. 
@@ -68,11 +65,13 @@ Make sure links, spacing, typos, overall message is good, then draft a tweet thr
 
 ## Manipulation <a name="research-manipulation"></a>
 
-* **DIAL**:"Robotic Skill Acquistion via Instruction Augmentation with Vision-Language Models", "arXiv, Nov 2022", [[Paper]()] [[Website]()]
+* **TidyBot**: "", arXiV, May 2023, [[Paper](https://arxiv.org/abs/2305.05658) [Website](https://tidybot.cs.princeton.edu) [Paper Website](https://huggingface.co/papers/2305.05658)]
 
-* **CLIP-Fields**:"CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory", "arXiv, Oct 2022", [[Paper]()] [[PyTorch Code]()] [[Website]()]
+* **DIAL**:"Robotic Skill Acquistion via Instruction Augmentation with Vision-Language Models", arXiv, Nov 2022, [[Paper]()] [[Website]()]
 
-* **VIMA**:"VIMA: General Robot Manipulation with Multimodal Prompts", "arXiv, Oct 2022", [[Paper]()] [[Pytorch Code]()] [[Website]()]
+* **CLIP-Fields**:"CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory", arXiv, Oct 2022, [[Paper]()] [[PyTorch Code]()] [[Website]()]
+
+* **VIMA**:"VIMA: General Robot Manipulation with Multimodal Prompts", arXiv, Oct 2022, [[Paper]()] [[Pytorch Code]()] [[Website]()]
 
 * **Perceiver-Actor**:"A Multi-Task Transformer for Robotic Manipulation", CoRL, Sep 2022. [[Paper]()] [[Pytorch Code]()] [[Website]()]
 
@@ -133,7 +132,6 @@ CONTENT
 * **Ameca**: "Ameca Expressions with GPT-3 / 4", Engineered Arts, 2023, [[Video](https://www.youtube.com/watch?v=yUszJyS3d7A)]
 
 * **Sarcastic Robot**: "Sarcastic Robot powered by GPT-4", Gabrael Levine (Hackathon Project), 2023, [[Video](https://www.youtube.com/watch?v=PgT8tPChbqc)] 
-
 
 ## Educational Materials <a name="educational-materials"></a> 
 
