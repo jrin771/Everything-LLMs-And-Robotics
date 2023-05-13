@@ -6,7 +6,8 @@ EVENTUALLY FIX THE LINK HERE SO THAT IT GOES TO THE RIGHT PLACE BUT FOR NOW IT'S
 
 If you want to learn how to do a pull request, [go here.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
-## I WANT TO ADD A
+## I WANT TO ADD A 
+- [Introductory Resource](#intro-resource)
 - [Paper](#paper)
 - [Project Demo](#project-demo) 
 - [Educational Material](#educational-material) 
@@ -14,6 +15,12 @@ If you want to learn how to do a pull request, [go here.](https://docs.github.co
 - [Clean Up](#clean-up) 
 - [Administrative Changes](#administrative-changes)
 
+## INTRODUCTORY RESOURCES 
+Modify the README.md and follow the format 
+``` 
+* ** Short Title**: "TITLE", INSTITUTION, YEAR. [[NAME OF RESOURCE](link)]
+``` 
+* **Transformers from scratch** "", ____, ______. [[]()]
 
 ## PAPER <a name="paper"></a>
 Modify the README.md and follow the format 
