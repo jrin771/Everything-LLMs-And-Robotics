@@ -33,9 +33,20 @@ See if there's anything else course-wise I can add espeically lecture slides/tal
 
 After all of that is done I'm going to go through and see if I can add at a minimum 5 papers to each of these categories if not more.
 Make sure links, spacing, typos, overall message is good, then draft a tweet thread and have this thing blow up. 
-## Reasoning <a name="llms-resources"></a>  
-## Reasoning <a name="robotics-resources"></a> 
-## Reasoning <a name="llms-and-robotics-resources"></a> 
+## LLMs Introductory Resources <a name="llms-resources"></a>  
+CONTENT 
+What is a transformer ground up explainer
+Transformers United class from stanford
+
+## Robotics Introductory Resources <a name="robotics-resources"></a> 
+CONTENT: 
+Easier: CS199 from stanford (will be a full class next year that I (jrin@stanford.edu) will be TAing for!)
+Harder: CS223 from stanford
+
+
+## LLMs + Robotics Introductory Resources <a name="llms-and-robotics-resources"></a> 
+* **Google's 2022 Research** https://ai.googleblog.com/2023/02/google-research-2022-beyond-robotics.html 
+
 
 ## Reasoning <a name="research-reasoning"></a> 
 
