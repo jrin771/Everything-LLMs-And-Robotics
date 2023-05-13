@@ -34,12 +34,10 @@ See if there's anything else course-wise I can add espeically lecture slides/tal
 After all of that is done I'm going to go through and see if I can add at a minimum 5 papers to each of these categories if not more.
 Make sure links, spacing, typos, overall message is good, then draft a tweet thread and have this thing blow up. 
 ## LLMs Introductory Resources <a name="llms"></a>  
-* **START HERE** "Transformers from Scratch", Brandon Rohrer, [[Website](https://e2eml.school/transformers.html)]
-* **Stanford Transformers Class** "CS25: Transformers United", Stanford, 2022, [[Website](https://web.stanford.edu/class/cs25/)]
-* **Stephen Wolfram Explains LLMs**
-* **Andrej Karpathy Tutorial**
-What is a transformer ground up explainer
-Transformers United class from stanford
+* **START HERE**: "Transformers from Scratch", Brandon Rohrer, [[Website](https://e2eml.school/transformers.html)]
+* **Stanford Transformers Class**: "CS25: Transformers United", Stanford, 2022, [[Website](https://web.stanford.edu/class/cs25/)]
+* **Stephen Wolfram Explains ChatGPT**: "What Is ChatGPT Doing … and Why Does It Work?" [[Website](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)]
+* **Andrej Karpathy GPT Tutorial**: "Let's build GPT: from scratch, in code, spelled out." Andrej Karpathy, 2023[[Youtube Video](https://www.youtube.com/watch?v=kCc8FmEb1nY)]
 
 ## Robotics Introductory Resources <a name="robotics"></a> 
 CONTENT: 
