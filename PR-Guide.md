@@ -4,7 +4,7 @@ In other repositories, such as [awesome-cv](https://github.com/jbhuang0604/aweso
 EVENTUALLY FIX THE LINK HERE SO THAT IT GOES TO THE RIGHT PLACE BUT FOR NOW IT'S A PLACEHOLDER
 
 
-If you want to know how to do a pull request, [go here.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+If you want to learn how to do a pull request, [go here.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 ## I WANT TO ADD A
 - [Paper](#paper)
