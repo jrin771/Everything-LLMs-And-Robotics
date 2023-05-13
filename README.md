@@ -12,6 +12,9 @@ If you want to learn why we do the things that we do (and how you can incorporat
 
 # What Does This Repository Have? 
 
+- [Beginner: LLMs Resources](#llms-resources)
+- [Beginner: Robotics Resources](#robotics-resources)
+- [Beginner: LLMs + Robotics Resources](#llms-and-robotics-resources)
 - [Research: Reasoning](#research-reasoning)
 - [Research: Planning](#research-planning)
 - [Research: Manipulation](#research-manipulation)
@@ -30,6 +33,9 @@ See if there's anything else course-wise I can add espeically lecture slides/tal
 
 After all of that is done I'm going to go through and see if I can add at a minimum 5 papers to each of these categories if not more.
 Make sure links, spacing, typos, overall message is good, then draft a tweet thread and have this thing blow up. 
+## Reasoning <a name="llms-resources"></a>  
+## Reasoning <a name="robotics-resources"></a> 
+## Reasoning <a name="llms-and-robotics-resources"></a> 
 
 ## Reasoning <a name="research-reasoning"></a> 
 
