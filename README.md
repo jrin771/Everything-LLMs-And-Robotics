@@ -6,7 +6,7 @@ Heavily Inspired by [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LL
 # Logistics 
 If you want to make a change this repository [click here](PR-Guide.md)
 
-Why I made this: Go here.(blue link here) 
+Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.html)
 
 # What Does This Repository Have? 
 
