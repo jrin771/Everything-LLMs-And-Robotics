@@ -1,5 +1,5 @@
 ## WHY PULL REQUESTS? 
-Explanation [here.](https://jrin771.github.io) 
+Explanation [here.](https://jrin771.github.io/EverythingLLMsAndRobotics.html) 
 
 How do I do a pull request? [Go here.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
