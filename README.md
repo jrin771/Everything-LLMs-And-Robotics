@@ -53,35 +53,20 @@ If you want to learn why we do the things that we do (and how you can incorporat
 
 * **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", ACL, Jun 2021. [[Paper](https://arxiv.org/abs/2201.07207)] [[Code](https://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
 
-
-
-
-
-
-
 ## Planning <a name="research-planning"></a>
 
 * **CLARIFY** "Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting", arXiv, March 2023 [[Paper](https://arxiv.org/abs/2303.14100)][[Code](https://github.com/ac-rad/xdl-generation)][[Website](https://ac-rad.github.io/clairify/)]
 
-* **LM-Nav**: "Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action", arXiv, July 2022. [[Paper]()] [[Pytorch Code]()] [[Website]()]
+* **LM-Nav**: "Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action", arXiv, July 2022. [[Paper](https://arxiv.org/abs/2207.04429)] [[Pytorch Code](https://github.com/blazejosinski/lm_nav)] [[Website](https://sites.google.com/view/lmnav)]
 
-* **InnerMonlogue**: "Inner Monologue: Embodied Reasoning through Planning with Language Models", arXiv, July 2022. [[Paper]()] [[Website]()]
+* **InnerMonlogue**: "Inner Monologue: Embodied Reasoning through Planning with Language Models", arXiv, July 2022. [[Paper](https://arxiv.org/abs/2207.05608)] [[Website](https://innermonologue.github.io)]
 
-* **Housekeep**: "Housekeep: Tidying Virtual Households using Commonsense Reasoning", arXiv, May 2022. [[Paper]()] [[Pytorch Code]()] [[Website]()]
+* **Housekeep**: "Housekeep: Tidying Virtual Households using Commonsense Reasoning", arXiv, May 2022. [[Paper](https://arxiv.org/abs/2205.10712)] [[Pytorch Code](https://github.com/yashkant/housekeep)] [[Website](https://yashkant.github.io/housekeep/)]
 
-* **LID**: "Pre-Trained Language Models for Interactive Decision-Making", arXiv, Feb 2022. [[Paper]()] [[Pytorch Code]()] [[Website]()]
-
-* **ZSP**: "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", ICML, Jan 2022. [[Paper]()] [[Pytorch Code]()] [[Website]()]
+* **LID**: "Pre-Trained Language Models for Interactive Decision-Making", arXiv, Feb 2022. [[Paper](https://arxiv.org/abs/2202.01771)] [[Pytorch Code](https://github.com/ShuangLI59/Pre-Trained-Language-Models-for-Interactive-Decision-Making)] [[Website](https://shuangli-project.github.io/Pre-Trained-Language-Models-for-Interactive-Decision-Making/)]
 
 
-
-
-
-
-
-
-
-
+* **ZSP**: "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", ICML, Jan 2022. [[Paper](https://arxiv.org/abs/2201.07207)] [[Pytorch Code](https://github.com/huangwl18/language-planner)] [[Website](https://wenlong.page/language-planner/)]
 
 
 ## Manipulation <a name="research-manipulation"></a>
@@ -90,62 +75,41 @@ If you want to learn why we do the things that we do (and how you can incorporat
 
 * **TidyBot**: "TidyBot: Personalized Robot Assistance with Large Language Models", arXiV, May 2023, [[Paper](https://arxiv.org/abs/2305.05658) [Website](https://tidybot.cs.princeton.edu) [Paper Website](https://huggingface.co/papers/2305.05658)]
 
-* **DIAL**:"Robotic Skill Acquistion via Instruction Augmentation with Vision-Language Models", arXiv, Nov 2022, [[Paper]()] [[Website]()]
+* **DIAL**:"Robotic Skill Acquistion via Instruction Augmentation with Vision-Language Models", arXiv, Nov 2022, [[Paper](https://arxiv.org/abs/2211.11736)] [[Website](https://instructionaugmentation.github.io)]
 
-* **CLIP-Fields**:"CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory", arXiv, Oct 2022, [[Paper]()] [[PyTorch Code]()] [[Website]()]
+* **CLIP-Fields**:"CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory", arXiv, Oct 2022, [[Paper](https://arxiv.org/abs/2210.05663)] [[PyTorch Code](https://github.com/notmahi/clip-fields)] [[Website](https://mahis.life/clip-fields/)]
 
-* **VIMA**:"VIMA: General Robot Manipulation with Multimodal Prompts", arXiv, Oct 2022, [[Paper]()] [[Pytorch Code]()] [[Website]()]
+* **VIMA**:"VIMA: General Robot Manipulation with Multimodal Prompts", arXiv, Oct 2022, [[Paper](https://arxiv.org/abs/2210.03094)] [[Pytorch Code](https://github.com/vimalabs/VIMA)] [[Website](https://vimalabs.github.io)]
 
-* **Perceiver-Actor**:"A Multi-Task Transformer for Robotic Manipulation", CoRL, Sep 2022. [[Paper]()] [[Pytorch Code]()] [[Website]()]
+* **Perceiver-Actor**:"A Multi-Task Transformer for Robotic Manipulation", CoRL, Sep 2022. [[Paper](https://peract.github.io/paper/peract_corl2022.pdf)] [[Pytorch Code](https://github.com/peract/peract)] [[Website](https://peract.github.io)]
 
-* **LaTTe**: "LaTTe: Language Trajectory TransformEr", arXiv, Aug 2022. [[Paper]()] [[TensorFlow Code]()] [[Website]()]
+* **LaTTe**: "LaTTe: Language Trajectory TransformEr", arXiv, Aug 2022. [[Paper](https://arxiv.org/abs/2208.02918)] [[TensorFlow Code](https://github.com/arthurfenderbucker/NL_trajectory_reshaper)] [[Website](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/robot-language/)]
 
-* **Robots Enact Malignant Stereotypes**: "Robots Enact Malignant Stereotypes", FAccT, Jun 2022. [[Paper]()] [[Pytorch Code]()] [[Website]()] [Washington Post]()] [[Wired]()] (code access on request)
+* **Robots Enact Malignant Stereotypes**: "Robots Enact Malignant Stereotypes", FAccT, Jun 2022. [[Paper](https://arxiv.org/abs/2207.11569)]  [[Website](https://sites.google.com/view/robots-enact-stereotypes/home)] [Washington Post](https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/)] [[Wired](https://www.wired.com/story/how-to-stop-robots-becoming-racist/)] (code access on request)
 
-* **ATLA**: "Leveraging Language for Accelerated Learning of Tool Manipulation", CoRL, Jun 2022. [[Paper]()]
+* **ATLA**: "Leveraging Language for Accelerated Learning of Tool Manipulation", CoRL, Jun 2022. [[Paper](https://arxiv.org/abs/2206.13074)]
 
-* **ZeST**: "Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?", L4DC, Apr 2022. [[Paper]()]
+* **ZeST**: "Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?", L4DC, Apr 2022. [[Paper](https://arxiv.org/abs/2204.11134)]
 
-* **LSE-NGU**: "Semantic Exploration from Language Abstractions and Pretrained Representations", arXiv, Apr 2022. [[Paper]()]
+* **LSE-NGU**: "Semantic Exploration from Language Abstractions and Pretrained Representations", arXiv, Apr 2022. [[Paper](https://arxiv.org/abs/2204.05080)]
 
-* **Embodied-CLIP**: "Simple but Effective: CLIP Embeddings for Embodied AI ", CVPR, Nov 2021. [[Paper]()] [[Pytorch Code]()]
+* **Embodied-CLIP**: "Simple but Effective: CLIP Embeddings for Embodied AI ", CVPR, Nov 2021. [[Paper](https://arxiv.org/abs/2004.14973)] [[Pytorch Code](https://github.com/arjunmajum/vln-bert)]
 
-* **CLIPort**: "CLIPort: What and Where Pathways for Robotic Manipulation", CoRL, Sept 2021. [[Paper]()] [[Pytorch Code]()] [[Website]()]
-
-
-
-
-
-
-
-
-
-
-
-
+* **CLIPort**: "CLIPort: What and Where Pathways for Robotic Manipulation", CoRL, Sept 2021. [[Paper](https://arxiv.org/abs/2210.06407)] [[Pytorch Code]()] [[Website](https://interactive-language.github.io)]
 
 ## Instructions and Navigation <a name="research-instructions-and-navigation"></a>
 
-* **ADAPT**: "ADAPT: Vision-Language Navigation with Modality-Aligned Action Prompts", CVPR, May 2022. [[Paper]()]
+* **ADAPT**: "ADAPT: Vision-Language Navigation with Modality-Aligned Action Prompts", CVPR, May 2022. [[Paper](https://arxiv.org/abs/2205.15509)]
 
-* **Pre-Trained Vision Models for Control**: "The Unsurprising Effectiveness of Pre-Trained Vision Models for Control", ICML, Mar 2022. [[Paper]()] [[Pytorch Code]()] [[Website]()]
+* **Pre-Trained Vision Models for Control**: "The Unsurprising Effectiveness of Pre-Trained Vision Models for Control", ICML, Mar 2022. [[Paper](https://arxiv.org/abs/2203.03580)] [[Pytorch Code](https://github.com/sparisi/pvr_habitat)] [[Website](https://mahis.life/clip-fields/)]
 
-* **CoW**: "CLIP on Wheels: Zero-Shot Object Navigation as Object Localization and Exploration", arXiv, Mar 2022. [[Paper]()]
+* **CoW**: "CLIP on Wheels: Zero-Shot Object Navigation as Object Localization and Exploration", arXiv, Mar 2022. [[Paper](https://arxiv.org/abs/2203.10421)]
 
-* **Recurrent VLN-BERT**: "A Recurrent Vision-and-Language BERT for Navigation", CVPR, Jun 2021 [[Paper]()] [[Pytorch Code]()]
+* **Recurrent VLN-BERT**: "A Recurrent Vision-and-Language BERT for Navigation", CVPR, Jun 2021 [[Paper](https://arxiv.org/abs/2011.13922)] [[Pytorch Code](https://github.com/YicongHong/Recurrent-VLN-BERT)]
 
-* **VLN-BERT**: "Improving Vision-and-Language Navigation with Image-Text Pairs from the Web", ECCV, Apr 2020 [[Paper]()] [[Pytorch Code]()]
+* **VLN-BERT**: "Improving Vision-and-Language Navigation with Image-Text Pairs from the Web", ECCV, Apr 2020 [[Paper](https://arxiv.org/abs/2004.14973)] [[Pytorch Code](https://github.com/arjunmajum/vln-bert)]
 
-* **Interactive Language**: "Interactive Language: Talking to Robots in Real Time", arXiv, Oct 2022 [[Paper]()] [[Website]()]
-
-
-
-
-
-
-
-
-
+* **Interactive Language**: "Interactive Language: Talking to Robots in Real Time", arXiv, Oct 2022 [[Paper](https://arxiv.org/abs/2210.06407)] [[Website](https://interactive-language.github.io)]
 
 ## Simulation Frameworks <a name="research-simulation-frameworks"></a>
 
