@@ -23,6 +23,20 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 - [Thoughtful Twitter Threads](#thoughtful-twitter-threads)
 - [Citation](#citation)
 
+
+https://arxiv.org/abs/2303.03378 (PaLM-E)
+https://arxiv.org/abs/2304.10267 (LLMs generate robotic scripts for biology lab automation)
+https://arxiv.org/pdf/2303.15324 (Can LLMs design a robot?)
+https://arxiv.org/abs/2304.12529 (Improved Trust in HRI with LLMs)
+https://arxiv.org/abs/2303.03480 (Can an agent find your cat shaped mug? This is perception)
+https://arxiv.org/abs/2303.06247 (Task and Motion Planning with Large Language Models for Object Rearrangement)
+https://arxiv.org/abs/2303.12153 (Text2Motion: From Natural Language to Feasible Instructions) 
+https://proceedings.mlr.press/v205/shah23b.html (LLM-NAV) 
+https://arxiv.org/abs/2211.11736 (Robotic skill acquisition) 
+
+
+
+
 ## LLMs Educational Resources <a name="llms"></a>  
 * **START HERE**: "Transformers from Scratch", Brandon Rohrer, [[Website](https://e2eml.school/transformers.html)]
 
