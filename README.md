@@ -1,14 +1,12 @@
 # Everything-LLMs-And-Robotics
 The world's largest GitHub Repository for the intersection of LLMs (multimodal included!) + Robotics 
 
-Why I made this: Go here.(blue link here) 
-
 Heavily Inspired by [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
 # Logistics 
 If you want to make a change this repository [click here](PR-Guide.md)
 
-If you want to learn why we do the things that we do (and how you can incorporate them in your own work) [click here](https://jrin771.github.io)
+Why I made this: Go here.(blue link here) 
 
 # What Does This Repository Have? 
 
