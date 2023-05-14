@@ -53,6 +53,12 @@ If you want to learn why we do the things that we do (and how you can incorporat
 
 * **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", ACL, Jun 2021. [[Paper](https://arxiv.org/abs/2201.07207)] [[Code](https://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
 
+
+
+
+
+
+
 ## Planning <a name="research-planning"></a>
 
 * **CLARIFY** "Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting", arXiv, March 2023 [[Paper](https://arxiv.org/abs/2303.14100)][[Code](https://github.com/ac-rad/xdl-generation)][[Website](https://ac-rad.github.io/clairify/)]
@@ -66,6 +72,17 @@ If you want to learn why we do the things that we do (and how you can incorporat
 * **LID**: "Pre-Trained Language Models for Interactive Decision-Making", arXiv, Feb 2022. [[Paper]()] [[Pytorch Code]()] [[Website]()]
 
 * **ZSP**: "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", ICML, Jan 2022. [[Paper]()] [[Pytorch Code]()] [[Website]()]
+
+
+
+
+
+
+
+
+
+
+
 
 ## Manipulation <a name="research-manipulation"></a>
 
@@ -95,6 +112,18 @@ If you want to learn why we do the things that we do (and how you can incorporat
 
 * **CLIPort**: "CLIPort: What and Where Pathways for Robotic Manipulation", CoRL, Sept 2021. [[Paper]()] [[Pytorch Code]()] [[Website]()]
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Instructions and Navigation <a name="research-instructions-and-navigation"></a>
 
 * **ADAPT**: "ADAPT: Vision-Language Navigation with Modality-Aligned Action Prompts", CVPR, May 2022. [[Paper]()]
@@ -109,13 +138,22 @@ If you want to learn why we do the things that we do (and how you can incorporat
 
 * **Interactive Language**: "Interactive Language: Talking to Robots in Real Time", arXiv, Oct 2022 [[Paper]()] [[Website]()]
 
+
+
+
+
+
+
+
+
+
 ## Simulation Frameworks <a name="research-simulation-frameworks"></a>
 
-* **MineDojo**: "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge", arXiv, Jun 2022. [[Paper]()] [[Code]()] [[Website]()] [[Open Database]()]
+* **MineDojo**: "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge", arXiv, Jun 2022. [[Paper](https://arxiv.org/abs/2206.08853)] [[Code](https://github.com/MineDojo/MineDojo)] [[Website](https://minedojo.org)] [[Open Database](https://minedojo.org/knowledge_base.html)]
 
-* **Habitat 2.0**: "Habitat 2.0: Training Home Assistants to Rearrange their Habitat", NeurIPS, Dec 2021. [[Paper]()] [[Code]()] [[Website]()]
+* **Habitat 2.0**: "Habitat 2.0: Training Home Assistants to Rearrange their Habitat", NeurIPS, Dec 2021. [[Paper](https://arxiv.org/abs/2106.14405)] [[Code](https://github.com/facebookresearch/habitat-sim)] [[Website](https://aihabitat.org)]
 
-* **BEHAVIOR**: "BEHAVIOR: Benchmark for Everyday Household Activities in Virtual, Interactive, and Ecological Environments", CoRL, Nov 2021. [[Paper]()] [[Code]()] [[Website]()]
+* **BEHAVIOR**: "BEHAVIOR: Benchmark for Everyday Household Activities in Virtual, Interactive, and Ecological Environments", CoRL, Nov 2021. [[Paper](https://arxiv.org/abs/2108.03332)] [[Code](https://github.com/StanfordVL/behavior)] [[Website](https://behavior.stanford.edu)]
 
 * **iGibson 1.0**: "iGibson 1.0: a Simulation Environment for Interactive Tasks in Large Realistic Scenes", IROS, Sep 2021. [[Paper](https://arxiv.org/abs/2012.02924)] [[Code](https://github.com/StanfordVL/iGibson)] [[Website](https://svl.stanford.edu/igibson/)]
 
