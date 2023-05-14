@@ -25,8 +25,12 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 
 ## LLMs Educational Resources <a name="llms"></a>  
 * **START HERE**: "Transformers from Scratch", Brandon Rohrer, [[Website](https://e2eml.school/transformers.html)]
+
 * **Stanford Transformers Class**: "CS25: Transformers United", Stanford, 2022, [[Website](https://web.stanford.edu/class/cs25/)]
-* **Stephen Wolfram Explains ChatGPT**: "What Is ChatGPT Doing … and Why Does It Work?" [[Website](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)]
+
+* **Stephen Wolfram Explains ChatGPT**: "What Is ChatGPT Doing … and Why Does It Work?" [[Website]
+(https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)]
+
 * **Andrej Karpathy GPT Tutorial**: "Let's build GPT: from scratch, in code, spelled out." Andrej Karpathy, 2023 [[Youtube Video](https://www.youtube.com/watch?v=kCc8FmEb1nY)]
 
 ## Robotics Educational Resources <a name="robotics"></a> 
@@ -38,7 +42,6 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **Controlling Robots Via Large Language Models**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
 
 ## Reasoning <a name="research-reasoning"></a> 
-
 * **RT-1**: "RT-1: Robotics Transformer for Real-World Control at Scale", arXiv, Dec 2022. [[Paper](https://arxiv.org/abs/2212.06817)] [[Code](https://github.com/google-research/robotics_transformer)] [[Website](https://robotics-transformer.github.io)]
 
 * **ProgPrompt**: "Generating Situated Robot Task Plans using Large Language Models", arXiv, Sept 2022.  [[Paper](https://arxiv.org/abs/2209.11302)] [[Code Doesn't Really Exist here](https://github.com/progprompt/progprompt)] [[Website](https://progprompt.github.io)]
@@ -52,7 +55,6 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", ACL, Jun 2021. [[Paper](https://arxiv.org/abs/2201.07207)] [[Code](https://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
 
 ## Planning <a name="research-planning"></a>
-
 * **PromptCraft Robotics**: "ChatGPT for Robotics: Design Principles and Model Abilities", Microsoft, 2023, [[Paper](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)], [[Website](http://aka.ms/ChatGPT-Robotics)], [[Code](https://github.com/microsoft/PromptCraft-Robotics)]
 
 * **CLARIFY** "Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting", arXiv, March 2023 [[Paper](https://arxiv.org/abs/2303.14100)][[Code](https://github.com/ac-rad/xdl-generation)][[Website](https://ac-rad.github.io/clairify/)]
@@ -65,12 +67,9 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 
 * **LID**: "Pre-Trained Language Models for Interactive Decision-Making", arXiv, Feb 2022. [[Paper](https://arxiv.org/abs/2202.01771)] [[Pytorch Code](https://github.com/ShuangLI59/Pre-Trained-Language-Models-for-Interactive-Decision-Making)] [[Website](https://shuangli-project.github.io/Pre-Trained-Language-Models-for-Interactive-Decision-Making/)]
 
-
 * **ZSP**: "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", ICML, Jan 2022. [[Paper](https://arxiv.org/abs/2201.07207)] [[Pytorch Code](https://github.com/huangwl18/language-planner)] [[Website](https://wenlong.page/language-planner/)]
 
-
 ## Manipulation <a name="research-manipulation"></a>
-
 * **MOO** "Open-World Object Manipulation using Pre-trained Vision-Language Models" arXiv, March 2023 [[Paper](https://arxiv.org/abs/2303.00905)] [[Website](https://robot-moo.github.io)]
 
 * **TidyBot**: "TidyBot: Personalized Robot Assistance with Large Language Models", arXiV, May 2023, [[Paper](https://arxiv.org/abs/2305.05658) [Website](https://tidybot.cs.princeton.edu) [Paper Website](https://huggingface.co/papers/2305.05658)]
@@ -98,7 +97,6 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **CLIPort**: "CLIPort: What and Where Pathways for Robotic Manipulation", CoRL, Sept 2021. [[Paper](https://arxiv.org/abs/2210.06407)] [[Pytorch Code]()] [[Website](https://interactive-language.github.io)]
 
 ## Instructions and Navigation <a name="research-instructions-and-navigation"></a>
-
 * **ADAPT**: "ADAPT: Vision-Language Navigation with Modality-Aligned Action Prompts", CVPR, May 2022. [[Paper](https://arxiv.org/abs/2205.15509)]
 
 * **Pre-Trained Vision Models for Control**: "The Unsurprising Effectiveness of Pre-Trained Vision Models for Control", ICML, Mar 2022. [[Paper](https://arxiv.org/abs/2203.03580)] [[Pytorch Code](https://github.com/sparisi/pvr_habitat)] [[Website](https://mahis.life/clip-fields/)]
@@ -112,7 +110,6 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **Interactive Language**: "Interactive Language: Talking to Robots in Real Time", arXiv, Oct 2022 [[Paper](https://arxiv.org/abs/2210.06407)] [[Website](https://interactive-language.github.io)]
 
 ## Simulation Frameworks <a name="research-simulation-frameworks"></a>
-
 * **MineDojo**: "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge", arXiv, Jun 2022. [[Paper](https://arxiv.org/abs/2206.08853)] [[Code](https://github.com/MineDojo/MineDojo)] [[Website](https://minedojo.org)] [[Open Database](https://minedojo.org/knowledge_base.html)]
 
 * **Habitat 2.0**: "Habitat 2.0: Training Home Assistants to Rearrange their Habitat", NeurIPS, Dec 2021. [[Paper](https://arxiv.org/abs/2106.14405)] [[Code](https://github.com/facebookresearch/habitat-sim)] [[Website](https://aihabitat.org)]
@@ -126,11 +123,9 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **BabyAI**: "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning", ICLR, May 2019. [[Paper](https://openreview.net/pdf?id=rJeXCo0cYX)] [[Code](https://github.com/mila-iqia/babyai/tree/iclr19)]
 
 ## Perception <a name="research-perception"></a> 
-
 * **From Occulation To Insight**: "From Occlusion to Insight: Object Search in Semantic Shelves using Large Language Models", arXiv, Feb 2023, [[Paper](https://arxiv.org/abs/2302.12915)]
 
 ## Project Demos <a name="project-demos"></a> 
-
 * **SPOT GPT**: "Boston Dynamics Integration of ChatGPT into SPOT Robot", Boston Dynamics, 2023, [[Video](https://www.youtube.com/watch?v=XyCKe3rrYik)] 
 
 * **RobotGPT**: "Orangewood Labs RoboGPT Demo", Orangewood Labs, 2023, [[Video](https://www.youtube.com/watch?v=56Ip4CBfX-E)]
@@ -145,10 +140,7 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **Bitter Lesson 2.0**: *@hausman_k, 2023* [[Thread](https://twitter.com/hausman_k/status/1612509549889744899 
 )] 
 
-
-Content
 ## Citation <a name="citation"></a>
-
 If you find this repository useful, please consider citing this list:
 
 ```
