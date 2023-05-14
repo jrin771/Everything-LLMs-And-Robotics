@@ -7,7 +7,7 @@ How do I do a pull request? [Go here.](https://docs.github.com/en/pull-requests/
 - [Educational Resource](#educational-resource)
 - [Research Paper](#paper)
 - [Project Demo](#project-demo) 
-- [Twitter Thread That Doesn't Suck](#twitter-thread-that-doesn't-suck) 
+- [Thoughtful Twitter Thread](#thoughtful-twitter-thread) 
 - [Clean Up](#clean-up) 
 - [Administrative Changes](#administrative-changes)
 
@@ -37,7 +37,7 @@ For example:
 
 * **SPOT GPT**: "Boston Dynamics Integration of ChatGPT into SPOT Robot", Boston Dynamics, 2023, [[Video](https://www.youtube.com/watch?v=XyCKe3rrYik)]
 
-## TWITTER THREAD THAT DOESN'T SUCK <a name="twitter-thread-that-doesn't-suck"></a>
+## THOUGHTFUL TWITTER THREAD <a name="thoughtful-twitter-thread"></a>
 Modify the README.md and follow the format 
 ``` 
 * ** Short Title**: @USERNAME, YEAR. [[Thread](link)]  
