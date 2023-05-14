@@ -53,6 +53,8 @@ Why I made this: Go here.(blue link here)
 
 ## Planning <a name="research-planning"></a>
 
+* **PromptCraft Robotics**: "ChatGPT for Robotics: Design Principles and Model Abilities", Microsoft, 2023, [[Paper](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)], [[Website](http://aka.ms/ChatGPT-Robotics)], [[Code](https://github.com/microsoft/PromptCraft-Robotics)]
+
 * **CLARIFY** "Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting", arXiv, March 2023 [[Paper](https://arxiv.org/abs/2303.14100)][[Code](https://github.com/ac-rad/xdl-generation)][[Website](https://ac-rad.github.io/clairify/)]
 
 * **LM-Nav**: "Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action", arXiv, July 2022. [[Paper](https://arxiv.org/abs/2207.04429)] [[Pytorch Code](https://github.com/blazejosinski/lm_nav)] [[Website](https://sites.google.com/view/lmnav)]
