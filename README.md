@@ -28,9 +28,6 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 
 * **Stanford Transformers Class**: "CS25: Transformers United", Stanford, 2022, [[Website](https://web.stanford.edu/class/cs25/)]
 
-* **Stephen Wolfram Explains ChatGPT**: "What Is ChatGPT Doing … and Why Does It Work?" [[Website]
-(https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)]
-
 * **Andrej Karpathy GPT Tutorial**: "Let's build GPT: from scratch, in code, spelled out." Andrej Karpathy, 2023 [[Youtube Video](https://www.youtube.com/watch?v=kCc8FmEb1nY)]
 
 ## Robotics Educational Resources <a name="robotics"></a> 
