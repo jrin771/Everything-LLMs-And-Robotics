@@ -59,6 +59,8 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", ACL, Jun 2021. [[Paper](https://arxiv.org/abs/2201.07207)] [[Code](https://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
 
 ## Planning <a name="research-planning"></a>
+* **LLM-GROP**: "Task and Motion Planning with Large Language Models for Object Rearrangement", arXiv, Mar 2023 [[Paper](https://arxiv.org/abs/2303.06247)]
+
 * **Bio Lab Task Planning**: "LLMs can generate robotic scripts from goal-oriented instructions in biological laboratory automation", arXiv, April 2023 [[Paper](https://arxiv.org/abs/2304.10267)]
 
 * **PromptCraft Robotics**: "ChatGPT for Robotics: Design Principles and Model Abilities", Microsoft, 2023, [[Paper](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)], [[Website](http://aka.ms/ChatGPT-Robotics)], [[Code](https://github.com/microsoft/PromptCraft-Robotics)]
@@ -103,6 +105,9 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **CLIPort**: "CLIPort: What and Where Pathways for Robotic Manipulation", CoRL, Sept 2021. [[Paper](https://arxiv.org/abs/2210.06407)] [[Pytorch Code]()] [[Website](https://interactive-language.github.io)]
 
 ## Instructions and Navigation <a name="research-instructions-and-navigation"></a>
+
+* **Text2Motion**: "Text2Motion: From Natural Language Instructions to Feasible Plans", arXiv, Mar 2023 [[Paper](https://arxiv.org/abs/2303.12153)]
+
 * **ChatGPT Robot Collaboration**: "Improved Trust in Human-Robot Collaboration with ChatGPT", arXiv, April 2023. [[Paper](https://arxiv.org/abs/2304.12529)]
 
 * **ADAPT**: "ADAPT: Vision-Language Navigation with Modality-Aligned Action Prompts", CVPR, May 2022. [[Paper](https://arxiv.org/abs/2205.15509)]
@@ -131,6 +136,8 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **BabyAI**: "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning", ICLR, May 2019. [[Paper](https://openreview.net/pdf?id=rJeXCo0cYX)] [[Code](https://github.com/mila-iqia/babyai/tree/iclr19)]
 
 ## Perception <a name="research-perception"></a> 
+* **LGX**: "Can an Embodied Agent Find Your "Cat-shaped Mug"? LLM-Based Zero-Shot Object Navigation", arXiv, Mar 2023. [[Paper](https://arxiv.org/abs/2303.03480)]
+
 * **Robots Acquire Skills With VLMs**: "Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models" arXiv, Nov 2022. [[Paper](https://arxiv.org/abs/2211.11736)]
 
 * **From Occulation To Insight**: "From Occlusion to Insight: Object Search in Semantic Shelves using Large Language Models", arXiv, Feb 2023, [[Paper](https://arxiv.org/abs/2302.12915)]
