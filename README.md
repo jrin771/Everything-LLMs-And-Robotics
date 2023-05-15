@@ -23,28 +23,6 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 - [Thoughtful Twitter Threads](#thoughtful-twitter-threads)
 - [Citation](#citation)
 
-
-https://arxiv.org/abs/2303.03378 (PaLM-E)
-
-https://arxiv.org/abs/2304.10267 (LLMs generate robotic scripts for biology lab automation)
-
-https://arxiv.org/pdf/2303.15324 (Can LLMs design a robot?)
-
-https://arxiv.org/abs/2304.12529 (Improved Trust in HRI with LLMs)
-
-https://arxiv.org/abs/2303.03480 (Can an agent find your cat shaped mug? This is perception)
-
-https://arxiv.org/abs/2303.06247 (Task and Motion Planning with Large Language Models for Object Rearrangement)
-
-https://arxiv.org/abs/2303.12153 (Text2Motion: From Natural Language to Feasible Instructions) 
-
-https://proceedings.mlr.press/v205/shah23b.html (LLM-NAV) 
-
-https://arxiv.org/abs/2211.11736 (Robotic skill acquisition) 
-
-
-
-
 ## LLMs Educational Resources <a name="llms"></a>  
 * **START HERE**: "Transformers from Scratch", Brandon Rohrer, [[Website](https://e2eml.school/transformers.html)]
 
@@ -63,7 +41,11 @@ https://arxiv.org/abs/2211.11736 (Robotic skill acquisition)
 
 * **Controlling Robots Via Large Language Models**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
 
-## Reasoning <a name="research-reasoning"></a> 
+## Reasoning <a name="research-reasoning"></a>  
+* **LLM Designs Robots**: "CAN LARGE LANGUAGE MODELS DESIGN A ROBOT?", arXiv, Mar 2023. [[Paper](https://arxiv.org/pdf/2303.15324.pdf)]
+
+* **PaLM-E**: "PaLM-E: An Embodied Multimodal Language Model", arXiV, Mar 2023. [[Paper](https://arxiv.org/abs/2303.03378)] [[Website](https://palm-e.github.io)] [[Demo](https://palm-e.github.io/#demo)]
+
 * **RT-1**: "RT-1: Robotics Transformer for Real-World Control at Scale", arXiv, Dec 2022. [[Paper](https://arxiv.org/abs/2212.06817)] [[Code](https://github.com/google-research/robotics_transformer)] [[Website](https://robotics-transformer.github.io)]
 
 * **ProgPrompt**: "Generating Situated Robot Task Plans using Large Language Models", arXiv, Sept 2022.  [[Paper](https://arxiv.org/abs/2209.11302)] [[Code Doesn't Really Exist here](https://github.com/progprompt/progprompt)] [[Website](https://progprompt.github.io)]
@@ -77,6 +59,8 @@ https://arxiv.org/abs/2211.11736 (Robotic skill acquisition)
 * **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", ACL, Jun 2021. [[Paper](https://arxiv.org/abs/2201.07207)] [[Code](https://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
 
 ## Planning <a name="research-planning"></a>
+* **Bio Lab Task Planning**: "LLMs can generate robotic scripts from goal-oriented instructions in biological laboratory automation", arXiv, April 2023 [[Paper](https://arxiv.org/abs/2304.10267)]
+
 * **PromptCraft Robotics**: "ChatGPT for Robotics: Design Principles and Model Abilities", Microsoft, 2023, [[Paper](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)], [[Website](http://aka.ms/ChatGPT-Robotics)], [[Code](https://github.com/microsoft/PromptCraft-Robotics)]
 
 * **CLARIFY** "Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting", arXiv, March 2023 [[Paper](https://arxiv.org/abs/2303.14100)][[Code](https://github.com/ac-rad/xdl-generation)][[Website](https://ac-rad.github.io/clairify/)]
@@ -119,6 +103,8 @@ https://arxiv.org/abs/2211.11736 (Robotic skill acquisition)
 * **CLIPort**: "CLIPort: What and Where Pathways for Robotic Manipulation", CoRL, Sept 2021. [[Paper](https://arxiv.org/abs/2210.06407)] [[Pytorch Code]()] [[Website](https://interactive-language.github.io)]
 
 ## Instructions and Navigation <a name="research-instructions-and-navigation"></a>
+* **ChatGPT Robot Collaboration**: "Improved Trust in Human-Robot Collaboration with ChatGPT", arXiv, April 2023. [[Paper](https://arxiv.org/abs/2304.12529)]
+
 * **ADAPT**: "ADAPT: Vision-Language Navigation with Modality-Aligned Action Prompts", CVPR, May 2022. [[Paper](https://arxiv.org/abs/2205.15509)]
 
 * **Pre-Trained Vision Models for Control**: "The Unsurprising Effectiveness of Pre-Trained Vision Models for Control", ICML, Mar 2022. [[Paper](https://arxiv.org/abs/2203.03580)] [[Pytorch Code](https://github.com/sparisi/pvr_habitat)] [[Website](https://mahis.life/clip-fields/)]
@@ -145,6 +131,8 @@ https://arxiv.org/abs/2211.11736 (Robotic skill acquisition)
 * **BabyAI**: "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning", ICLR, May 2019. [[Paper](https://openreview.net/pdf?id=rJeXCo0cYX)] [[Code](https://github.com/mila-iqia/babyai/tree/iclr19)]
 
 ## Perception <a name="research-perception"></a> 
+* **Robots Acquire Skills With VLMs**: "Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models" arXiv, Nov 2022. [[Paper](https://arxiv.org/abs/2211.11736)]
+
 * **From Occulation To Insight**: "From Occlusion to Insight: Object Search in Semantic Shelves using Large Language Models", arXiv, Feb 2023, [[Paper](https://arxiv.org/abs/2302.12915)]
 
 ## Project Demos <a name="project-demos"></a> 
