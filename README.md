@@ -140,6 +140,8 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **From Occulation To Insight**: "From Occlusion to Insight: Object Search in Semantic Shelves using Large Language Models", arXiv, Feb 2023, [[Paper](https://arxiv.org/abs/2302.12915)]
 
 ## Project Demos <a name="project-demos"></a> 
+* **RobotGPT Pt.2** "Twitter Video Of Voice-Input LLM-Powered Robot Arm", Orangewood Labs, 2023, [[Video](https://twitter.com/Abhindas1/status/1651625638485446657)]
+
 * **SPOT GPT**: "Boston Dynamics Integration of ChatGPT into SPOT Robot", Boston Dynamics, 2023, [[Video](https://www.youtube.com/watch?v=XyCKe3rrYik)] 
 
 * **RobotGPT**: "Orangewood Labs RoboGPT Demo", Orangewood Labs, 2023, [[Video](https://www.youtube.com/watch?v=56Ip4CBfX-E)]
