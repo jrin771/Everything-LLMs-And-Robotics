@@ -152,6 +152,8 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 
 * **Sarcastic Robot**: "Sarcastic Robot powered by GPT-4", Gabrael Levine (Hackathon Project), 2023, [[Video](https://www.youtube.com/watch?v=PgT8tPChbqc)] 
 
+* **DroneFormer**: "DroneFormer: Controlling UAVs with natural language!", Brian Wu (Hackathon Project), Stanford University, 2023 [[Video](https://www.youtube.com/watch?v=8dJcT7-VHNs)]
+
 ## Thoughtful Twitter Threads <a name="thoughtful-twitter-threads"></a>
 * **Bitter Lesson 2.0**: *@hausman_k, 2023* [[Thread](https://twitter.com/hausman_k/status/1612509549889744899 
 )] 
