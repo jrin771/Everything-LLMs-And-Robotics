@@ -39,6 +39,8 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **Controlling Robots Via Large Language Models**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
 
 ## Reasoning <a name="research-reasoning"></a>  
+* **AutoTAMP**: "AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers", arXiv, June 2023. [[Paper](https://arxiv.org/pdf/2306.06531.pdf)]
+
 * **LLM Designs Robots**: "CAN LARGE LANGUAGE MODELS DESIGN A ROBOT?", arXiv, Mar 2023. [[Paper](https://arxiv.org/pdf/2303.15324.pdf)]
 
 * **PaLM-E**: "PaLM-E: An Embodied Multimodal Language Model", arXiV, Mar 2023. [[Paper](https://arxiv.org/abs/2303.03378)] [[Website](https://palm-e.github.io)] [[Demo](https://palm-e.github.io/#demo)]
