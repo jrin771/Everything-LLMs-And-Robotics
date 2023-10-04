@@ -135,6 +135,8 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **BabyAI**: "BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning", ICLR, May 2019. [[Paper](https://openreview.net/pdf?id=rJeXCo0cYX)] [[Code](https://github.com/mila-iqia/babyai/tree/iclr19)]
 
 ## Perception <a name="research-perception"></a> 
+* **Matcha agent**: "Chat with the Environment: Interactive Multimodal Perception Using Large Language Models", IROS 2023. [[Paper](https://arxiv.org/abs/2303.08268)]  [[Poster](https://matcha-agent.github.io/img/matcha-poster.pdf)] [[Code](https://github.com/xf-zhao/Matcha-agent)] [[Video](https://youtu.be/rMMeMTWmT0k)] [[Website](https://matcha-agent.github.io/)]
+
 * **LGX**: "Can an Embodied Agent Find Your "Cat-shaped Mug"? LLM-Based Zero-Shot Object Navigation", arXiv, Mar 2023. [[Paper](https://arxiv.org/abs/2303.03480)]
 
 * **Robots Acquire Skills With VLMs**: "Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models" arXiv, Nov 2022. [[Paper](https://arxiv.org/abs/2211.11736)]
