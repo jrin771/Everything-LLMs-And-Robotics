@@ -13,6 +13,7 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 - [Education: LLMs](#llms) 
 - [Education: Robotics](#robotics)
 - [Education: LLMs + Robotics](#llms-and-robotics)
+- [Research: Scaling Laws](#scaling-laws)
 - [Research: Reasoning](#research-reasoning)
 - [Research: Planning](#research-planning)
 - [Research: Manipulation](#research-manipulation)
@@ -37,6 +38,9 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **Google's 2022 Research**: "Google Research, 2022 & beyond: Robotics", Google, 2023, [[Website](https://ai.googleblog.com/2023/02/google-research-2022-beyond-robotics.html)]
 
 * **Controlling Robots Via Large Language Models**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
+
+## Neural Scaling Laws <a name="scaling-laws"></a>  
+* **Neural Scaling Laws for Embodied AI**: "Neural Scaling Laws for Embodied AI", arXiv, May 2024. [[Paper](https://arxiv.org/abs/2405.14005)]
 
 ## Reasoning <a name="research-reasoning"></a>  
 * **AutoTAMP**: "AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers", arXiv, June 2023. [[Paper](https://arxiv.org/pdf/2306.06531.pdf)]
