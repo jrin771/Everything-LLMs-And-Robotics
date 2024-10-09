@@ -58,6 +58,8 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", ACL, Jun 2021. [[Paper](https://arxiv.org/abs/2201.07207)] [[Code](https://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
 
 ## Planning <a name="research-planning"></a>
+* **Wonderful Team**: "Solving Robotics Problems in Zero-Shot with Vision-Language Models", *arXiv, Jul 2024*. [[Paper](https://www.arxiv.org/abs/2407.19094)] [[Code](https://github.com/wonderful-team-robotics/wonderful_team_robotics)] [[Website](https://wonderful-team-robotics.github.io/)]
+
 * **LLM-GROP**: "Task and Motion Planning with Large Language Models for Object Rearrangement", arXiv, Mar 2023 [[Paper](https://arxiv.org/abs/2303.06247)]
 
 * **Bio Lab Task Planning**: "LLMs can generate robotic scripts from goal-oriented instructions in biological laboratory automation", arXiv, April 2023 [[Paper](https://arxiv.org/abs/2304.10267)]
