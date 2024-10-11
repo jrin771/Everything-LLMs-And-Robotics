@@ -58,6 +58,8 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", ACL, Jun 2021. [[Paper](https://arxiv.org/abs/2201.07207)] [[Code](https://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
 
 ## Planning <a name="research-planning"></a>
+* **LABOR Agent**: "Large Language Models for Orchestrating Bimanual Robots", Humanoids, Nov. 2024. [[Paper](https://arxiv.org/abs/2404.02018)] [[Website](https://labor-agent.github.io/)], [[Code](https://github.com/Kchu/LABOR-Agent)]
+
 * **LLM-GROP**: "Task and Motion Planning with Large Language Models for Object Rearrangement", arXiv, Mar 2023 [[Paper](https://arxiv.org/abs/2303.06247)]
 
 * **Bio Lab Task Planning**: "LLMs can generate robotic scripts from goal-oriented instructions in biological laboratory automation", arXiv, April 2023 [[Paper](https://arxiv.org/abs/2304.10267)]
@@ -77,6 +79,8 @@ Why I made this: [Go here.](https://jrin771.github.io/EverythingLLMsAndRobotics.
 * **ZSP**: "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", ICML, Jan 2022. [[Paper](https://arxiv.org/abs/2201.07207)] [[Pytorch Code](https://github.com/huangwl18/language-planner)] [[Website](https://wenlong.page/language-planner/)]
 
 ## Manipulation <a name="research-manipulation"></a>
+* **Lafite-RL**: "Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models", CoRL Workshop, Nov 2023. [[Paper](https://arxiv.org/abs/2311.02379)]
+
 * **MOO** "Open-World Object Manipulation using Pre-trained Vision-Language Models" arXiv, March 2023 [[Paper](https://arxiv.org/abs/2303.00905)] [[Website](https://robot-moo.github.io)]
 
 * **TidyBot**: "TidyBot: Personalized Robot Assistance with Large Language Models", arXiV, May 2023, [[Paper](https://arxiv.org/abs/2305.05658) [Website](https://tidybot.cs.princeton.edu) [Paper Website](https://huggingface.co/papers/2305.05658)]
